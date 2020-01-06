@@ -13,6 +13,25 @@ Races must be entered in chronological order with each argument representing a p
 
 To delete a race, it must be deleted in the schedule file, the feature race file, the racearchive.txt file and from the SQLite database. See DELETING A RACE for instructions below.
 
+## Result
+
+This will turn out a formatted entry in both the schedule file and the feature race file for the country. As per the instructions in the Starters Orders 7 manual, this is the format:
+
+**Schedule File**  
+```
+[day], [month number]
+[racecourse]
+[name]
+```
+
+**Feature Race File**  
+```
+<NAME>[name]<RACECOURSE>[course][:cc_going]
+<MONTH>[MON]<PRIZE>[00000]<EXTFIELDSPEC>[international]<FORCEFIELD>[field]<DISTANCE>[distance]<RACECATAG>[raceclass]<AGE>[age]<SEX>[sex]<CONDITIONS>[condition type]=[condition number]
+```
+
+The script will only populate the optional parts of the format if the argument is called.
+
 # OPTIONS
 
 Required options must be entered. The information can be entered in any order. 
