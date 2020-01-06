@@ -49,6 +49,7 @@ Conditions must be entered with both the conditions type and connection number. 
 -r      RACE CATAGORY           in SO6 shorthand
 -p      PRIZE                   without currency sign
 -a      AGE                     in SO6 shorthand
+-g      GOING                   T = turf or D = dirt
 ```
 
 ## Optional
