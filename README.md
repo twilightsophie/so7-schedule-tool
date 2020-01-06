@@ -3,6 +3,11 @@ A Python script built to build custom modded schedules for the game Starters Ord
 
 The script will take input from the command line and print formatted entries to the required schedule and feature race files. Entries will be saved to a SQLite database and present an error if a duplicate race name is entered.
 
+# PREREQUISITES
+
+* SQLite3
+* Python 3+
+
 # USAGE
 Races must be entered in chronological order with each argument representing a part of the feature race information. The script will not order the races and all new entries will be added to the bottom of the documents.
 
@@ -61,6 +66,19 @@ If you have entered a race incorrectly or in the wrong place, it must be manuall
 ## Deleting from Race Archive
 
 ## Deleting from SQLite Database
+
+If you need to delete a race from the database, you have the option of doing so by the database entry ID or by a search term. You must access the database through the command line or the terminal of your PC.
+
+If you know the ID of the race:
+```
+DELETE FROM races
+WHERE ID = [id number];
+```
+If you know the name:
+```
+DELETE FROM races
+WHERE name LIKE %[name of race]%;
+```
 
 # FUTURE FIXES
 - Change conditions arguments to have short argument for both CONDITION TYPE and CONDITION NUMBER
