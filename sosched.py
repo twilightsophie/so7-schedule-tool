@@ -3,7 +3,7 @@ from pathlib import Path
 import argparse
 import sys
 from dictionary import (
-    course,
+    country,
     surface,
     distance,
     age,
@@ -130,66 +130,31 @@ with open('_sched_f.db', 'a+t') as schedule, \
                     )
     basic.add_argument("-a", "--age",
                     type=str,
-                    required=False,
+                    required=True,
                     help="restricted to these ages. default 3YOUP",
                     default='3up',
                     metavar='AGE IN SO6',
                     choices=('2',
-                                '3',
-                                '4',
-                                '5',
-                                '23',
-                                '34',
-                                '3up',
-                                '4up',
-                                '5up',
-                                '6up',
-                                '7up',
-                                '8up',
-                                '9up',
-                                '10up',
-                                )
+                            '3',
+                            '4',
+                            '5',
+                            '23',
+                            '34',
+                            '3up',
+                            '4up',
+                            '5up',
+                            '6up',
+                            '7up',
+                            '8up',
+                            '9up',
+                            '10up',
+                            )
                     )
-    optional = parser.add_argument_group('optional')
-    optional.add_argument("--field",
-                        type=str,
-                        help="force field size in full word"
-                        )
-    optional.add_argument("-s", "--sex",
-                        type=str,
-                        help="restricted to sex",
-                        metavar='SEX',
-                        choices=('F', 'FM', 'CF', 'CG', 'M')
-                        )
-    optional.add_argument("-i", "--int",
-                        type=str,
-                        help="force home field"
-                        )
-    optional.add_argument("--preps",
-                        type=str,
-                        help="prep races name,name")
-    optional.add_argument("--conds",
-                        type=str,
-                        help="conditions for race. must be used with CONDS race type, mw = maxwins, mhr = musthaverun, mr = maxruns, nwc = notwonclass,nwg = notwongroup",
-                        metavar='COND',
-                        choices=(
-                            'mw',
-                            'mhr',
-                            'mr',
-                            'nwc',
-                            'nwg',
-                        )
-                        )
-    optional.add_argument("-c",
-                        type=str,
-                        help="number of races/wins for conds",
-                        )
-    racecourses = parser.add_argument_group('Racecourse')
-    racecourses.add_argument("--aus",
-                            type=str,
-                            help="AUS courses",
-                            metavar='COURSE NAME',
-                            choices=(
+    basic.add_argument("-t", "--track",
+                       type=str,
+                       required=True,
+                       help="racetrack name",
+                       choices=(
                                 'Ascot',
                                 'Brisbane',
                                 'Caulfield',
@@ -201,14 +166,7 @@ with open('_sched_f.db', 'a+t') as schedule, \
                                 'Rosehill',
                                 'Warrnambool',
                                 'Warwick Farm',
-                                'Oakbank'
-                            )
-                            )
-    racecourses.add_argument("--usa",
-                            type=str,
-                            help='USA courses',
-                            metavar='COURSE NAME',
-                            choices=(
+                                'Oakbank',
                                 'Albany',
                                 'Alberta',
                                 'Albuquerque',
@@ -222,7 +180,7 @@ with open('_sched_f.db', 'a+t') as schedule, \
                                 'Columbus',
                                 'Delaware',
                                 'Farmington',
-                                'Florence'
+                                'Florence',
                                 'Florida',
                                 'Hollywood',
                                 'Houston',
@@ -247,15 +205,8 @@ with open('_sched_f.db', 'a+t') as schedule, \
                                 'Tuscon',
                                 'Vancouver',
                                 'Virginia',
-                                'Washington'
-                            )
-                            )
-    racecourses.add_argument("--uk",
-                            type=str,
-                            help='UK courses',
-                            metavar='COURSE NAME',
-                            choices=(
-                                'Ascot',
+                                'Washington',
+                                'Ascot-uk',
                                 'Ayr',
                                 'Bath',
                                 'Beverly',
@@ -288,62 +239,22 @@ with open('_sched_f.db', 'a+t') as schedule, \
                                 'Thirsk',
                                 'Warwick',
                                 'Windsor',
-                                'Wolverhampton'
+                                'Wolverhampton',
                                 'Yarmouth',
-                                'York'
-                            )
-                            )
-    racecourses.add_argument("--uae",
-                            type=str,
-                            help="Dubai courses",
-                            metavar='COURSE NAME',
-                            choices=(
-                                'Dubai'
-                            )
-                            )
-    racecourses.add_argument("--sgp",
-                            type=str,
-                            help="Singapore courses",
-                            metavar='COURSE NAME',
-                            choices=('Kranji')
-                            )
-    racecourses.add_argument("--sa",
-                            type=str,
-                            help="South Africa courses",
-                            metavar='COURSE NAME',
-                            choices=(
+                                'York',
+                                'Dubai',
+                                'Kranji',
                                 'Durbanville',
                                 'Kenilworth',
-                                'Turffontein'
-                            )
-                            )
-    racecourses.add_argument("--nz",
-                            type=str,
-                            help="NZ courses",
-                            metavar='COURSE NAME',
-                            choices=(
+                                'Turffontein',
                                 'Ellerslie',
                                 'Hastings',
                                 'Otaki',
-                                'Trentham'
-                            )
-                            )
-    racecourses.add_argument("--jap",
-                            type=str,
-                            help="JAP courses",
-                            metavar='COURSE NAME',
-                            choices=(
+                                'Trentham',
                                 'Hanshin',
                                 'Kyoto',
                                 'Nakayama',
-                                'Tokyo'
-                            )
-                            )
-    racecourses.add_argument("--ire",
-                            type=str,
-                            help="IRE courses",
-                            metavar='COURSE NAME',
-                            choices=(
+                                'Tokyo',
                                 'Curragh',
                                 'Dundalk',
                                 'Fairyhouse',
@@ -352,85 +263,56 @@ with open('_sched_f.db', 'a+t') as schedule, \
                                 'Leopardstown',
                                 'Limerick',
                                 'Navan',
-                                'Tipperary'
-                            )
-                            )
-    racecourses.add_argument("--hk",
-                            type=str,
-                            help="HK courses",
-                            metavar='COURSE NAME',
-                            choices=('Sha Tin')
-                            )
-    racecourses.add_argument("--ger",
-                            type=str,
-                            help="German course",
-                            metavar='COURSE NAME',
-                            choices=(
-                                'Baden-Baden'
-                            )
-                            )
-    racecourses.add_argument("--fr",
-                            type=str,
-                            help="French courses",
-                            metavar='COURSE NAME',
-                            choices=(
+                                'Tipperary',
+                                'Sha Tin',
+                                'Baden-Baden',
                                 'Chantilly',
                                 'Deauville',
                                 'Longchamp',
                                 'Maisons Laffitte',
-                                'Saint Cloud'
-                            )
-                            )
-    racecourses.add_argument("--can",
-                            type=str,
-                            help="Toronto",
-                            metavar='COURSE NAME',
-                            choices=("Toronto")
-                            )
+                                'Saint Cloud',
+                                'Toronto'
+                       )
+                       )
+    
+    optional = parser.add_argument_group('optional')
+    optional.add_argument("--field",
+                        type=str,
+                        help="force field size in full word"
+                        )
+    optional.add_argument("-s", "--sex",
+                        type=str,
+                        help="restricted to sex",
+                        metavar='SEX',
+                        choices=('F', 'FM', 'CF', 'CG', 'M')
+                        )
+    optional.add_argument("-i", "--int",
+                        type=str,
+                        help="force home field"
+                        )
+    optional.add_argument("--preps",
+                        type=str,
+                        help="prep races name,name")
+    optional.add_argument("--conds",
+                        type=str,
+                        help="conditions for race. must be used with CONDS race type.",
+                        metavar='COND',
+                        choices=(
+                            'mw',
+                            'mhr',
+                            'mr',
+                            'nwc',
+                            'nwg',
+                        )
+                        )
+    optional.add_argument("-c",
+                        type=str,
+                        help="number of races/wins for conds",
+                        )
 
     args = parser.parse_args()
 
-    # defining racecourse and country
-    if args.usa:
-        racecourse = args.usa
-        country = "USA"
-    elif args.uk:
-        racecourse = args.uk
-        country = "UK"
-    elif args.uae:
-        racecourse = args.uae
-        country = "Dubai"
-    elif args.sgp:
-        racecourse = args.sgp
-        country = "SGP"
-    elif args.sa:
-        racecourse = args.sa
-        country = "SA"
-    elif args.nz:
-        racecourse = args.nz
-        country = "NZ"
-    elif args.jap:
-        racecourse = args.jap
-        country = "JAP"
-    elif args.ire:
-        racecourse = args.ire
-        country = "IRE"
-    elif args.hk:
-        racecourse = args.hk
-        country = "HK"
-    elif args.ger:
-        racecourse = args.ger
-        country = "GER"
-    elif args.fr:
-        racecourse = args.fr
-        country = "FR"
-    elif args.can:
-        racecourse = args.can
-        country = "CAN"
-    else:
-        racecourse = args.aus
-        country = "AUS"
-
+    country = (country.get(args.track))
     name = args.name
     going = (surface.get(args.surface))
     distance = (distance.get(args.distance))
