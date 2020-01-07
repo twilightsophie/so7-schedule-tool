@@ -14,7 +14,40 @@ from dictionary import (
 )
 import sqlite3
 
-# open output file and automatically close after run
+def sqlite3Entry():
+    try:
+        so7 = sqlite3.connect('so7.db')
+        cursor = so7.cursor()
+
+        cursor.execute('''INSERT INTO races (ID, Day, Month, Name, Course, Going, Country, Distance, Prize, Sex, Age, Field, International, Conditions, Class) VALUES(NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',(day, month, name, racecourse, going, country, distance, prize, sex, age, field, international, conjoin, raceclass))
+
+        so7.commit()
+
+    except sqlite3.Error as error:
+        print("Error while connecting to sqlite", error)
+    finally:
+        if (so7):
+            so7.close()
+
+def RaceNames():
+    def checkIfDuplicate():
+        # define empty list
+        races = []
+        #open file and read content in a list
+        races = [race_name.rstrip() for race_name in racenames.readlines()]
+        setOfRaces = set(races)
+        if name  in setOfRaces:
+            return True
+        else:
+            return False
+
+    result = checkIfDuplicate()
+
+    if result:
+        sys.exit('Race name is duplicate')
+    else:
+        print(name, file=racenames)
+    return
 
 parser = argparse.ArgumentParser(
     formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -278,7 +311,7 @@ optional.add_argument("-i", "--int",
 optional.add_argument("--preps",
                     type=str,
                     help="prep races name,name")
-optional.add_argument("--conds",
+optional.add_argument("-C", "--conds",
                     type=str,
                     help="conditions for race. must be used with CONDS race type.",
                     metavar='COND',
@@ -298,6 +331,7 @@ optional.add_argument("-c",
 args = parser.parse_args()
 
 country = (country.get(args.track))
+racecourse = args.track
 name = args.name
 going = (surface.get(args.surface))
 distance = (distance.get(args.distance))
@@ -305,7 +339,6 @@ age = (age.get(args.age))
 raceclass = (raceclass.get(args.racecatag))
 prize = str(args.prize)
 month = args.month
-scourse = (schedgoing.get(args.surface))
 smon = (number.get(args.month))
 day = str(args.day)
 # defining optional args
@@ -324,85 +357,22 @@ if raceclass == "CONDITIONS":
     if not args.conds:
         sys.exit("Conditions must be assigned to this race")
 
-
-def RaceNames():
-    def checkIfDuplicate():
-        # define empty list
-        races = []
-        with open('racearchive.txt', 'r+') as racenames:
-            #open file and read content in a list
-            races = [race_name.rstrip() for race_name in racenames.readlines()]
-            setOfRaces = set(races)
-            if name  in setOfRaces:
-                return True
-            else:
-                return False
-
-    result = checkIfDuplicate()
-
-    if result:
-        sys.exit('Race name is duplicate')
-    else:
-        print(name, file=racenames)
-    return
-
-
-RaceNames()
-
-feature = "<MONTH>{0}<PRIZE>{1}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}"
-base= "<NAME>{0}<RACECOURSE>{1}{2}"
+with open('racearchive.txt', 'r+') as racenames:
+    RaceNames()
 
 # construct the feature race information based on what arguments exist
-if args.field:
-    feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}"
-    if args.sex:
-        feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}"
-        if args.int:
-            feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<EXTFIELDSPEC>{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}"
-            if args.conds:
-                feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<EXTFIELDSPEC>{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}<CONDITIONS>{8}"    
-    elif args.int:
-        feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<EXTFIELDSPEC{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}"
-        if args.conds:
-            feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<EXTFIELDSPEC{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<CONDITIONS>{8}"
-    elif args.conds:
-        feature = "<MONTH>{0}<PRIZE>{1}<FORCEFIELD>{5}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<CONDITIONS>{8}"
-else:
-    if args.sex:
-        if args.int:
-            feature = "<MONTH>{0}<PRIZE>{1}<EXTFIELDSPEC>{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}"
-            if args.conds:
-                feature = "<MONTH>{0}<PRIZE>{1}<EXTFIELDSPEC>{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}<CONDITIONS>{8}"
-        else:
-            feature = "<MONTH>{0}<PRIZE>{1}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}"
-            if args.conds:
-                feature = "<MONTH>{0}<PRIZE>{1}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<SEX>{6}<CONDITIONS>{8}"
-    else:
-        if args.int:
-            feature = "<MONTH>{0}<PRIZE>{1}<EXTFIELDSPEC>{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}"
-            if args.conds:
-                feature = "<MONTH>{0}<PRIZE>{1}<EXTFIELDSPEC>{7}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<CONDITIONS>{8}"
-        else:
-            if args.conds:
-                feature = "<MONTH>{0}<PRIZE>{1}<DISTANCE>{2}<RACECATAG>{3}<AGE>{4}<CONDTIONS>{8}"
-
-based = base.format(name, racecourse, going)
-featurerace = feature.format(month, prize, distance, raceclass, age, field, sex, international, conjoin)
-
-def sqlite3Entry():
-    try:
-        so7 = sqlite3.connect('so7.db')
-        cursor = so7.cursor()
-
-        cursor.execute('''INSERT INTO races (ID, Day, Month, Name, Course, Going, Country, Distance, Prize, Sex, Age, Field, International, Conditions, Class) VALUES(NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',(day, month, name, racecourse, going, country, distance, prize, sex, age, field, international, conjoin, raceclass))
-
-        so7.commit()
-
-    except sqlite3.Error as error:
-        print("Error while connecting to sqlite", error)
-    finally:
-        if (so7):
-            so7.close()
+featurerace = f"<MONTH>{month}<PRIZE>{prize}"
+if field:
+    featurerace += f"<FORCEFIELD>{field}"
+if international:
+    featurerace += f"<EXTFIELDSPEC>{international}"
+featurerace += f"<DISTANCE>{distance}<RACECATAG>{raceclass}<AGE>{age}"
+if sex:
+    featurerace += f"<SEX>{sex}"
+if conjoin:
+    featurerace += f"<CONDITIONS>{conjoin}"
+    
+based = f"<NAME>{name}<RACECOURSE>{racecourse}{going}"
 
 # run this before printing otherwise have to wipe files if error
 sqlite3Entry()
@@ -461,9 +431,9 @@ elif country == "CAN":
         print(based, file=candb)
         print(featurerace, file=candb)
 
-with open('_sched_f.db', 'a+t') as schedule
+with open('_sched_f.db', 'a+t') as schedule:
     print(f"{smon},{day}", file=schedule)
-    print(f"{racecourse}{scourse}", file=schedule)
+    print(f"{racecourse}", file=schedule)
     if args.preps:
         print(f"_preps,{args.preps}", file=schedule)
     print(f"{name}", file=schedule)
