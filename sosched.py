@@ -49,6 +49,68 @@ def RaceNames():
         print(name, file=racenames)
     return
 
+# assign feature race file based on which country racecourse
+def printRaces():
+    if country == "AUS":
+        with open('aus_featureRaces.db', 'a+') as ausdb:
+            print(based, file=ausdb)
+            print(featurerace, file=ausdb)
+    elif country == "USA":
+        with open('usa_featureRaces.db', 'a+') as usadb:
+            print(based, file=usadb)
+            print(featurerace, file=usadb)
+    elif country == "UK":
+        with open('uk_featureRaces.db', 'a+') as ukdb:
+            print(based, file=ukdb)
+            print(featurerace, file=ukdb)
+    elif country == "UAE":
+        with open('uae_featureRaces.db', 'a+') as uaedb:
+            print(based, file=uaedb)
+            print(featurerace, file=uaedb)
+    elif country == "SGP":
+        with open('sgp_featureRaces.db', 'a+') as sgpdb:
+            print(based, file=sgpdb)
+            print(featurerace, file=sgpdb)
+    elif country == "SA":
+        with open('sa_featureRaces.db', 'a+') as sadb:
+            print(based, file=sadb)
+            print(featurerace, file=sadb)
+    elif country == "NZ":
+        with open('nz_featureRaces.db', 'a+') as nzdb:
+            print(based, file=nzdb)
+            print(featurerace, file=nzdb)
+    elif country == "JAP":
+        with open('jap_featureRaces.db', 'a+') as japdb:
+            print(based, file=japdb)
+            print(featurerace, file=japdb)
+    elif country == "IRE":
+        with open('ire_featureRaces.db', 'a+') as iredb:
+            print(based, file=iredb)
+            print(featurerace, file=iredb)
+    elif country == "HK":
+        with open('hk_featureRaces.db', 'a+') as hkdb:
+            print(based, file=hkdb)
+            print(featurerace, file=hkdb)
+    elif country == "GER":
+        with open('ger_featureRaces.db', 'a+') as gerdb:
+            print(based, file=gerdb)
+            print(featurerace, file=gerdb)
+    elif country == "FR":
+        with open('fr_featureRaces.db', 'a+') as frdb:
+            print(based, file=frdb)
+            print(featurerace, file=frdb)
+    elif country == "CAN":
+        with open('can_featureRaces.db', 'a+') as candb:
+            print(based, file=candb)
+            print(featurerace, file=candb)
+
+    with open('_sched_f.db', 'a+t') as schedule:
+        print(f"{smon},{day}", file=schedule)
+        print(f"{racecourse}", file=schedule)
+        if args.preps:
+            print(f"_preps,{args.preps}", file=schedule)
+        print(f"{name}", file=schedule)
+
 parser = argparse.ArgumentParser(
     formatter_class=argparse.RawDescriptionHelpFormatter,
     prog='sosched')
@@ -357,9 +419,6 @@ if raceclass == "CONDITIONS":
     if not args.conds:
         sys.exit("Conditions must be assigned to this race")
 
-with open('racearchive.txt', 'r+') as racenames:
-    RaceNames()
-
 # construct the feature race information based on what arguments exist
 featurerace = f"<MONTH>{month}<PRIZE>{prize}"
 if field:
@@ -375,67 +434,11 @@ if conjoin:
 based = f"<NAME>{name}<RACECOURSE>{racecourse}{going}"
 
 # run this before printing otherwise have to wipe files if error
+with open('racearchive.txt', 'r+') as racenames:
+    RaceNames()
+
 sqlite3Entry()
 
-# assign feature race file based on which country racecourse
-if country == "AUS":
-    with open('aus_featureRaces.db', 'a+') as ausdb:
-        print(based, file=ausdb)
-        print(featurerace, file=ausdb)
-elif country == "USA":
-    with open('usa_featureRaces.db', 'a+') as usadb:
-        print(based, file=usadb)
-        print(featurerace, file=usadb)
-elif country == "UK":
-    with open('uk_featureRaces.db', 'a+') as ukdb:
-        print(based, file=ukdb)
-        print(featurerace, file=ukdb)
-elif country == "UAE":
-    with open('uae_featureRaces.db', 'a+') as uaedb:
-        print(based, file=uaedb)
-        print(featurerace, file=uaedb)
-elif country == "SGP":
-    with open('sgp_featureRaces.db', 'a+') as sgpdb:
-        print(based, file=sgpdb)
-        print(featurerace, file=sgpdb)
-elif country == "SA":
-    with open('sa_featureRaces.db', 'a+') as sadb:
-        print(based, file=sadb)
-        print(featurerace, file=sadb)
-elif country == "NZ":
-    with open('nz_featureRaces.db', 'a+') as nzdb:
-        print(based, file=nzdb)
-        print(featurerace, file=nzdb)
-elif country == "JAP":
-    with open('jap_featureRaces.db', 'a+') as japdb:
-        print(based, file=japdb)
-        print(featurerace, file=japdb)
-elif country == "IRE":
-    with open('ire_featureRaces.db', 'a+') as iredb:
-        print(based, file=iredb)
-        print(featurerace, file=iredb)
-elif country == "HK":
-    with open('hk_featureRaces.db', 'a+') as hkdb:
-        print(based, file=hkdb)
-        print(featurerace, file=hkdb)
-elif country == "GER":
-    with open('ger_featureRaces.db', 'a+') as gerdb:
-        print(based, file=gerdb)
-        print(featurerace, file=gerdb)
-elif country == "FR":
-    with open('fr_featureRaces.db', 'a+') as frdb:
-        print(based, file=frdb)
-        print(featurerace, file=frdb)
-elif country == "CAN":
-    with open('can_featureRaces.db', 'a+') as candb:
-        print(based, file=candb)
-        print(featurerace, file=candb)
-
-with open('_sched_f.db', 'a+t') as schedule:
-    print(f"{smon},{day}", file=schedule)
-    print(f"{racecourse}", file=schedule)
-    if args.preps:
-        print(f"_preps,{args.preps}", file=schedule)
-    print(f"{name}", file=schedule)
+printRaces()
 
 print("Success")
