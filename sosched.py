@@ -110,6 +110,8 @@ def printRaces():
     with open('_sched_f.db', 'a+t') as schedule:
         print(f"{smon},{day}", file=schedule)
         print(f"{racecourse}", file=schedule)
+        if args.time:
+            print(time, file=schedule)
         if args.preps:
             print(f"_preps,{args.preps}", file=schedule)
         print(f"{name}", file=schedule)
@@ -377,6 +379,9 @@ optional.add_argument("-i", "--int",
 optional.add_argument("-P", "--preps",
                       type=str,
                       help="prep races name,name")
+optional.add_argument("-T", "--time",
+                      help="for evening races"
+                      )
 optional.add_argument("-C", "--conds",
                       type=str,
                       help="conditions for race. must be used with CONDS race type.",
@@ -411,6 +416,8 @@ day = str(args.day)
 field = args.field
 sex = args.sex
 international = args.int
+if args.time:
+    time = "_evening"
 
 # qa test of conditions
 if args.conds:
