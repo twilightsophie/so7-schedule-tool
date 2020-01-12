@@ -374,7 +374,7 @@ optional.add_argument("-i", "--int",
                       type=str,
                       help="force home field"
                       )
-optional.add_argument("-p", "--preps",
+optional.add_argument("-P", "--preps",
                       type=str,
                       help="prep races name,name")
 optional.add_argument("-C", "--conds",
