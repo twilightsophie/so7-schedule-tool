@@ -101,10 +101,5 @@ WHERE name LIKE %[name of race]%;
 ```
 
 # FUTURE FIXES
-- Change conditions arguments to have short argument for both CONDITION TYPE and CONDITION NUMBER
 - Add choices to readme
 - **IMPORTANT** - change duplicate checker to compare both racecourse and name, as game will allow a duplicate name if at a different track.
-- Reorder code to define functions before the execution area
-- Change racecourses arguments to a single racecourse argument with a dictionary that assigns country code based on dictionary
-- Shorten building of second row of feature race information using ```format```
-- Change ```with open file``` calls to be after ```country``` variable is declared to only open two files at a time
