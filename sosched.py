@@ -233,7 +233,7 @@ basic.add_argument("-a", "--age",
                             '7up',
                             '8up',
                             '9up',
-                            '10up',
+                            '10up'
                             )
                    )
 basic.add_argument("-t", "--track",
@@ -362,9 +362,13 @@ basic.add_argument("-t", "--track",
                    )
 
 optional = parser.add_argument_group('optional')
-optional.add_argument("--field",
+optional.add_argument("-F", "--field",
                       type=str,
-                      help="force field size in full word"
+                      help="force field size in full word",
+                      choices=(
+                          'home',
+                          'international'
+                      )
                       )
 optional.add_argument("-s", "--sex",
                       type=str,
