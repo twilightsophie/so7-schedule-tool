@@ -388,7 +388,7 @@ optional.add_argument("-T", "--time",
                       )
 optional.add_argument("-C", "--conds",
                       type=str,
-                      help="conditions for race. must be used with CONDS race type.",
+                      help="conditions for race. must be used with CONDS.",
                       metavar='COND',
                       choices=(
                           'mw',
