@@ -109,9 +109,9 @@ def printRaces():
 
     with open('_sched_f.db', 'a+t') as schedule:
         print(f"{smon},{day}", file=schedule)
-        print(f"{racecourse}", file=schedule)
         if args.time:
             print(time, file=schedule)
+        print(f"{racecourse}", file=schedule)
         if args.preps:
             print(f"_preps,{args.preps}", file=schedule)
         print(f"{name}", file=schedule)
