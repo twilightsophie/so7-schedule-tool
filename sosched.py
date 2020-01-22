@@ -456,4 +456,4 @@ sqlite3Entry()
 
 printRaces()
 
-print("Success")
+print(f"{name} successfully added")
