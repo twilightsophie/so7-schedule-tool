@@ -1,0 +1,3744 @@
+[pool]16000
+[fpoolperc]25
+[secondary_nat]nz
+start=216
+end=208
+1,4
+Warwick Farm
+Tattersalls Club Cup
+1,4
+Flemington
+Standish Handicap
+1,4
+Flemington
+Bagot Handicap
+1,4
+Ascot
+_preps,New Zealand Cup
+Perth Cup
+1,4
+Ascot
+La Trice Classic
+1,4
+Ascot
+Summer Scorcher
+1,4
+Ascot
+Fitzpatrick Plate
+1,4
+Ascot
+Mandurah Cup
+1,5
+Ellerslie
+Railway Handicap
+1,5
+Ellerslie
+Royal Stakes
+1,5
+Ellerslie
+Great Northern Guineas
+1,5
+Ellerslie
+Avondale Cup
+1,5
+Ellerslie
+Rich Hill Mile Handicap
+1,5
+Ellerslie
+Eclipse Stakes
+1,7
+Morphettville
+Little Acorn Quality
+1,7
+Morphettville
+Rolling Stone Handicap
+1,7
+Morphettville
+Rolling Stone Classic
+1,7
+Morphettville
+Rolling Stone Cup
+1,7
+Caulfield
+Firebranch Handicap
+1,7
+Caulfield
+Eternal Flame Handicap
+1,7
+Caulfield
+Diamond Creek Handicap
+1,7
+Caulfield
+Forbes Stayers Stakes
+1,7
+Arcadia
+Santa Ynez Stakes
+1,7
+Arcadia
+Sham Stakes
+1,7
+Arcadia
+Sunshine Millions Filly & Mare Turf Stakes
+1,7
+Arcadia
+Sunshine Millions Dash
+1,7
+Arcadia
+Sunshine Millions Turf Stakes
+1,7
+Arcadia
+Sunshine Millions Filly & Mare Sprint
+1,11
+Moonee Valley
+Tasmanian Guineas
+1,11
+Moonee Valley
+Serenade Stakes
+1,11
+Moonee Valley
+Castaway Stakes
+1,11
+Moonee Valley
+Serenade Cup
+1,11
+Moonee Valley
+Wild Hill Handicap
+1,11
+Brisbane
+Full Throttle Stakes
+1,11
+Brisbane
+Morning Star Hunt Cup
+1,11
+Brisbane
+Full Throttle Sprint
+1,11
+Brisbane
+Magnitude Cup
+1,11
+Warrnambool
+Crazy Bullet Mile
+1,11
+Warrnambool
+Titanium Sports Classic
+1,11
+Warrnambool
+Crazy Bullet Sprint
+1,11
+Warrnambool
+Titanium Sports Handicap
+1,12
+Randwick
+Morning Star Stakes
+1,12
+Randwick
+Rainbow Ridge Handicap
+1,12
+Randwick
+Morning Star Mile
+1,12
+Randwick
+Rainbow Ridge Classic
+1,12
+Doomben
+Magic Millions Maiden Plate
+1,12
+Doomben
+Magic Millions Country Cup
+1,12
+Doomben
+Magic Millions Cup
+1,12
+Doomben
+Magic Millions Fillies and Mares
+1,12
+Doomben
+Magic Millions Trophy
+1,12
+Doomben
+_preps,Magic Millions Warrnambool 3yo4yo Stakes
+Magic Millions 3yo Guineas
+1,12
+Doomben
+_preps,Magic Millions Warrnambool 2yo Classic
+Magic Millions 2yo Classic
+1,12
+Doomben
+Magic Millions Snippets
+1,13
+Trentham
+Trentham Stakes
+1,13
+Trentham
+Levin Classic
+1,13
+Trentham
+Anniversary Classic
+1,14
+Monticello
+_preps,Santa Ynez
+Silverbulletday
+1,14
+Monticello
+_preps,Sham Stakes
+Lecomte Stakes
+1,14
+Randwick
+Parramatta Cup
+1,14
+Randwick
+Toowoomba Cup
+1,14
+Randwick
+Meridian Cup
+1,14
+Randwick
+Chatham Cup
+1,17
+Warwick Farm
+Takeover Target Stakes
+1,17
+Warwick Farm
+Gosford Guineas
+1,17
+Warwick Farm
+Gosford Gold Cup
+1,17
+Flemington
+Chester Manifold Stakes
+1,17
+Flemington
+Kensington Stakes
+1,17
+Flemington
+Australia Stakes
+1,17
+Ascot
+Miss Andretti Stakes
+1,17
+Ascot
+Batavia Sprint
+1,17
+Ascot
+Australia Day Sprint
+1,20
+Sha Tin
+Centenary Sprint
+1,20
+Sha Tin
+Chinese Club Challenge Cup
+1,20
+Sha Tin
+Hong Kong Stewards Cup
+1,21
+Trentham
+Thorndon Mile Handicap
+1,21
+Trentham
+Telegraph Handicap
+1,21
+Trentham
+Desert Gold Stakes
+1,21
+Trentham
+_preps,Perth Cup,New Zealand Cup
+Wellington Cup
+1,24
+_evening
+Dubai
+Al Fahidi Fort
+1,24
+_evening
+Dubai
+Al Rashidiya
+1,24
+_evening
+Dubai
+Al Shindagha Sprint
+1,24
+_evening
+Dubai
+Maktoum Challenge R1
+1,24
+_evening
+Dubai
+Cape Verdi
+1,25
+New York
+_preps,Santa Ynez,Silverbulletday
+Busanda Stakes
+1,25
+New York
+_preps,Sham Stakes,Lecomte Stakes
+Jerome Stakes
+1,26
+Randwick
+Carrington Stakes
+1,26
+Randwick
+Australia Day Cup
+1,26
+Doomben
+Sunshine Coast Cup
+1,26
+Doomben
+Port Lincoln Cup
+1,26
+Doomben
+Bell Bay Cup
+1,26
+Doomben
+Silver Charm Cup
+1,26
+Doomben
+Dash for Cash Cup
+1,27
+Ellerslie
+Mr Tiz Trophy
+1,27
+Ellerslie
+Concorde Handicap
+1,27
+Ellerslie
+Queen Elizabeth Handicap
+1,27
+Ellerslie
+Karaka 2YO Million
+1,27
+Ellerslie
+Karaka 3YO Million
+1,29
+Florida
+Sunshine Millions Oaks
+1,29
+Florida
+Sunshine Millions Distaff
+1,29
+Florida
+Sunshine Millions Sprint
+1,29
+Florida
+Sunshine Millions Classic
+2,1
+Doncaster
+Flying Childers Stakes
+2,1
+Doncaster
+May Hill Stakes
+2,1
+Doncaster
+Park Hill Stakes
+2,1
+Doncaster
+Doncaster Cup
+2,1
+Doncaster
+Futurity Trophy
+2,1
+Doncaster
+St Leger
+2,2
+Rosehill
+Expressway Stakes
+2,2
+Rosehill
+Canonbury Stakes
+2,2
+Rosehill
+Widden Stakes
+2,2
+Caulfield
+Manfred Stakes
+2,2
+Caulfield
+Chairmans Stakes
+2,2
+Caulfield
+WJ Adams Stakes
+2,2
+Caulfield
+Hobart Guineas
+2,2
+Ascot
+Scenic Blast Stakes
+2,2
+Ascot
+WATC Breeders Classic
+2,3
+Otaki
+Taranaki 2yo Classic
+2,3
+Otaki
+Taranaki Stakes
+2,4
+Florida
+_preps,Sham Stakes,Lecomte Stakes,Jerome Stakes
+Holy Bull Stakes
+2,4
+Florida
+_preps,Santa Ynez,Silverbulletday,Busanda Stakes
+Forward Gal Stakes
+2,4
+Florida
+Pegasus World Cup
+2,4
+Florida
+Azalea Stakes
+2,4
+Florida
+Old Hat Stakes
+2,7
+Moonee Valley
+Bow Mistress Trophy
+2,7
+Moonee Valley
+Tasmanian Derby
+2,7
+Moonee Valley
+Moruya Cup
+2,7
+Moonee Valley
+Kempsey Cup
+2,7
+Moonee Valley
+Lorne Cup
+2,7
+Moonee Valley
+Buffering Cup
+2,8
+Randwick
+Breeders Classic
+2,8
+Randwick
+Eskimo Prince Stakes
+2,8
+Randwick
+Lonhro Plate
+2,8
+Randwick
+Inglis Classic
+2,8
+Caulfield
+CF Orr Stakes
+2,8
+Caulfield
+Autumn Stakes
+2,8
+Caulfield
+Blue Diamond Prelude F
+2,8
+Caulfield
+Blue Diamond Prelude CG
+2,8
+Caulfield
+Rubiton Stakes
+2,8
+Caulfield
+Carlyon Cup
+2,8
+Caulfield
+Kevin Hayes Stakes
+2,8
+Caulfield
+Geoffrey Belmaine Stakes
+2,9
+Ascot
+WA Magic Millions 2YO Classic
+2,9
+Ascot
+WA Magic Millions 3YO Trophy
+2,9
+Ascot
+Albany Cup
+2,9
+Ascot
+Narrogin Cup
+2,9
+Moonee Valley
+Hobart Cup
+2,9
+Moonee Valley
+Thomas Lyons Stakes
+2,9
+Moonee Valley
+Strutt Stakes
+2,9
+Moonee Valley
+Elwick 2yo Stakes
+2,9
+Moonee Valley
+MV Night Cup
+2,9
+Florida
+_preps,Sham Stakes,Lecomte Stakes,Jerome Stakes,Holy Bull Stakes
+Sam F. Davis Stakes
+2,9
+Florida
+_preps,Santa Ynez,Silverbulletday,Busanda Stakes,Forward Gal Stakes
+Suncoast Stakes
+2,9
+Florida
+Canadian Turf Handicap
+2,9
+Florida
+Suwannee River Stakes
+2,10
+Ellerslie
+Waikato Guineas
+2,10
+Ellerslie
+Sir Tristram Fillies Classic
+2,10
+Ellerslie
+International Stakes
+2,10
+Ellerslie
+Waikato Sprint
+2,10
+Ellerslie
+Avondale Guineas
+2,13
+Kyoto
+Kisaragi Sho
+2,13
+Kyoto
+Kyoto Kinen
+2,13
+Kyoto
+Kyoto Himba Stakes
+2,13
+Kyoto
+Kokura Daishoten
+2,15
+Randwick
+Apollo Stakes
+2,15
+Randwick
+Light Fingers Stakes
+2,15
+Randwick
+Southern Cross Stakes
+2,15
+Randwick
+Triscay Stakes
+2,15
+Morphettville
+Birthday Cup
+2,15
+Flemington
+Lightning Stakes
+2,15
+Flemington
+CS Hayes Stakes
+2,15
+Flemington
+The Vanity
+2,15
+Flemington
+Talindert Stakes
+2,16
+Monticello
+_preps,Sham Stakes,Lecomte Stakes,Jerome Stakes,Holy Bull Stakes,Sam F. Davis Stakes
+Risen Star Stakes
+2,16
+Monticello
+_preps,Santa Ynez,Silverbulletday,Busanda Stakes,Forward Gal Stakes,Suncoast Stakes
+Rachel Alexandra Stakes
+2,16
+Monticello
+Fair Grounds Handicap
+2,16
+Monticello
+Mineshaft Handicap
+2,16
+Monticello
+Albert M. Stall Memorial Stakes
+2,16
+Monticello
+Colonel Power Stakes
+2,17
+Sha Tin
+Centenary Vase
+2,17
+Sha Tin
+Hong Kong Gold Cup
+2,17
+Sha Tin
+Queen's Silver Jubilee Cup
+2,18
+Tokyo
+_preps,Risen Star Stakes
+Hyacinth Stakes
+2,18
+Tokyo
+Tokyo Shimbun Hai
+2,18
+Tokyo
+Queen Cup
+2,18
+Tokyo
+Kyodo News Service Hai
+2,18
+Tokyo
+Diamond Stakes
+2,18
+Tokyo
+February Stakes
+2,22
+Ascot
+Challenge Stakes
+2,22
+Ascot
+Cyril Flower Stakes
+2,22
+Ascot
+Belmont Cup
+2,22
+Ascot
+Northam Cup
+2,22
+Ascot
+Smarty Jones Cup
+2,22
+Ascot
+Canny Lad Cup
+2,22
+Caulfield
+Zeditave Stakes
+2,22
+Caulfield
+Caulfield Autumn Classic
+2,22
+Caulfield
+_preps,Blue Diamond Prelude F,Blue Diamond Prelude CG,BJ McLachlan Stakes
+Blue Diamond Stakes
+2,23
+Rosehill
+Hobartville Stakes
+2,23
+Rosehill
+Silver Slipper Stakes
+2,23
+Rosehill
+Millie Fox Stakes
+2,23
+Rosehill
+Parramatta Cup
+2,23
+Caulfield
+Futurity Stakes
+2,23
+Caulfield
+Oakleigh Plate
+2,23
+Caulfield
+Peter Young Classic
+2,23
+Caulfield
+Angus Armanasco Stakes
+2,23
+Caulfield
+Mannerism Stakes
+2,23
+Caulfield
+Mornington Cup Prelude
+2,23
+_evening
+Dubai
+UAE 2000 Guineas
+2,23
+_evening
+Dubai
+Balanchine
+2,23
+_evening
+Dubai
+Meyden Sprint
+2,23
+_evening
+Dubai
+Dubai Millennium Stakes
+2,23
+_evening
+Dubai
+_preps,Suncoast Stakes, Rachel Alexandra Stakes
+UAE Oaks
+2,23
+_evening
+Dubai
+Nad Al Sheba Trophy
+2,24
+Nakayama
+Nakayama Kinen
+2,24
+Nakayama
+Ocean Stakes
+2,24
+Nakayama
+Yayo Sho
+2,24
+Nakayama
+Lapis Lazuli Stakes
+2,24
+Nakayama
+Shiwasu Stakes
+2,24
+Ascot
+Detonator Stakes
+2,24
+Ascot
+Pinjarra Cup
+2,24
+Moonee Valley
+Vamos Stakes
+2,24
+Moonee Valley
+Tasmanian Oaks
+2,24
+Moonee Valley
+Launceston Cup
+2,24
+Moonee Valley
+Gold Sovereign Stakes
+2,24
+Moonee Valley
+Mowbray Stakes
+2,24
+Moonee Valley
+Typhoon Tracy Stakes
+2,25
+Ellerslie
+Matamata Breeders Stakes
+2,25
+Ellerslie
+Matamata Slipper
+2,28
+_evening
+Dubai
+Dubai City of Gold
+2,28
+_evening
+Dubai
+Burj Nahaar
+2,28
+_evening
+Dubai
+Jebel Hatta
+2,28
+_evening
+Dubai
+Mahab Al Shimmal
+2,28
+_evening
+Dubai
+Nad Al Sheba Turf Sprint
+2,28
+Florida
+_preps,Risen Star Stakes,Hyacinth Stakes
+Fountain of Youth Stakes
+2,28
+Florida
+_preps,Busanda Stakes,Forward Gal Stakes
+Davona Dale Stakes
+2,28
+Florida
+Hal's Hope Stakes
+2,28
+Florida
+Mac Diarmida Stakes
+2,28
+Florida
+Melody of Colors
+2,28
+Florida
+Texas Glitter Stakes
+3,1
+Warwick Farm
+Chipping Norton Stakes
+3,1
+Warwick Farm
+Surround Stakes
+3,1
+Warwick Farm
+Skyline Stakes
+3,1
+Warwick Farm
+Sweet Embrace Stakes
+3,1
+Warwick Farm
+Guy Walter Stakes
+3,1
+Warwick Farm
+Liverpool City Cup
+3,1
+Morphettville
+Boags Lord Reims Stakes
+3,1
+Morphettville
+Cinderella Stakes
+3,1
+Flemington
+Australian Guineas
+3,1
+Flemington
+Frances Tressady Stakes
+3,1
+Flemington
+Shaftesbury Avenue Handicap
+3,1
+Flemington
+Bob Hoystead Stakes
+3,1
+Flemington
+Festival of Racing Stakes
+3,1
+Flemington
+Roy Higgins Quality
+3,2
+Ellerslie
+New Zealand Derby
+3,2
+Ellerslie
+Sunline Vase
+3,2
+Ellerslie
+Darley Plate
+3,4
+Hanshin
+Hankyu Hai
+3,4
+Hanshin
+Tulip Sho
+3,4
+Hanshin
+Fillies' Revue
+3,4
+Hanshin
+Mainichi Hai
+3,4
+Hanshin
+Osaki Hai
+3,4
+Hanshin
+Hanshin Daishoten
+3,6
+Doomben
+Members Cup
+3,6
+Doomben
+Port Pirie Cup
+3,6
+Doomben
+Parkes Cup
+3,6
+Doomben
+Valegro Cup
+3,6
+Doomben
+Serenade Rose Cup
+3,6
+Ascot
+Lex Piper Stakes
+3,6
+Ascot
+Ascot 1000 Guineas
+3,6
+Ascot
+Bunbury Stakes
+3,6
+Ascot
+Esperance Cup
+3,6
+Ascot
+Mungrup Stud Sprint
+3,6
+Randwick
+Randwick City Stakes
+3,6
+Randwick
+Fireball Stakes
+3,6
+Randwick
+Aspiration Quality Handicap
+3,8
+Randwick
+Newcastle Newmarket Handicap
+3,8
+Randwick
+Randwick Guineas
+3,8
+Randwick
+Canterbury Stakes
+3,8
+Randwick
+Challenge Stakes
+3,8
+Randwick
+Reisling Stakes
+3,8
+Randwick
+Todman Stakes
+3,8
+Randwick
+Wenona Girl Handicap
+3,8
+Flemington
+Australian Cup
+3,8
+Flemington
+Lexus Newmarket Handicap
+3,8
+Flemington
+VRC Sires Produce Stakes
+3,8
+Flemington
+AV Kewney
+3,8
+Flemington
+Matron Stakes
+3,8
+Flemington
+Moomba Stakes
+3,8
+Florida
+_preps,Risen Star Stakes,Hyacinth Stakes,Fountain of Youth Stakes
+Tampa Bay Derby
+3,8
+Florida
+Rampart Stakes
+3,8
+Florida
+Herecomesthebride Stakes
+3,8
+Florida
+Palm Beach Stakes
+3,8
+Florida
+Gulfstream Park Sprint
+3,8
+Florida
+Very One Stakes
+3,9
+Warrnambool
+Black Opal Stakes
+3,9
+Warrnambool
+National Sprint
+3,9
+Warrnambool
+Canberra Guineas
+3,9
+Ascot
+Supremacy Stakes
+3,9
+Ascot
+Bunbury Cup
+3,9
+Ascot
+JC Roberts Stakes
+3,9
+Ascot
+Natasha Stakes
+3,9
+Morphettville
+Adelaide Cup
+3,9
+Morphettville
+CS Hayes Stakes
+3,9
+Morphettville
+Matrice Stakes
+3,10
+Arcadia
+_preps,Risen Star Stakes,Hyacinth Stakes,Fountain of Youth Stakes,Tampa Bay Derby
+San Felipe Stakes
+3,10
+Arcadia
+San Carlos Stakes
+3,10
+Arcadia
+Santa Anita Handicap
+3,10
+Arcadia
+_preps,Santa Ynez,Davona Dale Stakes
+Santa Ysabel Stakes
+3,10
+Arcadia
+Frank E. Kilroe Mile
+3,10
+Arcadia
+Beholder Stakes
+3,10
+Ellerslie
+Ellerslie Sires Produce
+3,10
+Ellerslie
+Second Century Stakes
+3,10
+Ellerslie
+_preps,Melbourne Cup,Perth Cup
+Auckland Cup
+3,14
+Moonee Valley
+Alister Clark Stakes
+3,14
+Moonee Valley
+Abell Stakes
+3,14
+Moonee Valley
+Meekatharra Cup
+3,14
+Moonee Valley
+Clare Cup
+3,14
+Moonee Valley
+Spirit Cup
+3,14
+Moonee Valley
+Flying Spur Cup
+3,14
+Doomben
+Goldmarket Handicap
+3,15
+Rosehill
+Coolmore Classic
+3,15
+Rosehill
+Ajax Stakes
+3,15
+Rosehill
+Phar Lap Stakes
+3,15
+Rosehill
+Sky High Stakes
+3,15
+Rosehill
+Magic Night Stakes
+3,15
+Rosehill
+Pago Pago Stakes
+3,15
+Rosehill
+Maurice McCarten Stakes
+3,15
+Rosehill
+_preps,Randwick Guineas
+Rosehill Guineas
+3,15
+Flemington
+Blamey Stakes
+3,15
+Flemington
+Thoroughbred Breeders Stakes
+3,15
+Flemington
+VRC March Stakes
+3,17
+Trentham
+Cuddle Stakes
+3,17
+Trentham
+Wellington Guineas
+3,17
+Trentham
+New Zealand Oaks
+3,20
+Nakayama
+Nakayama Himba Stakes
+3,20
+Nakayama
+Flower Cup
+3,20
+Nakayama
+Spring Stakes
+3,20
+Nakayama
+Lord Derby Challenge Trophy
+3,21
+Moonee Valley
+William Reid Stakes
+3,21
+Moonee Valley
+Sunline Stakes
+3,21
+Moonee Valley
+Alexandra Stakes
+3,21
+Moonee Valley
+St Albans Stakes
+3,21
+Moonee Valley
+Schweppes Stakes
+3,22
+Rosehill
+Golden Slipper Stakes
+3,22
+Rosehill
+George Ryder Stakes
+3,22
+Rosehill
+The Galaxy
+3,22
+Rosehill
+Ranvet Stakes
+3,22
+Rosehill
+Birthday Card Stakes
+3,22
+Rosehill
+NE Manion Quality Handicap
+3,22
+Rosehill
+Epona Stakes
+3,22
+Rosehill
+Darby Munro Stakes
+3,22
+Warrnambool
+Mornington Cup
+3,22
+Warrnambool
+Hareeba Stakes
+3,22
+Ascot
+Gimcrack Stakes
+3,22
+Ascot
+Perth Stakes
+3,22
+Ascot
+Grandstand Cup
+3,22
+Ascot
+South West Autumn Cup
+3,24
+Trentham
+South Island Breeders Stakes
+3,24
+Trentham
+Japan International Trophy
+3,25
+Kyoto
+Kinko Sho
+3,25
+Kyoto
+Falcon Stakes
+3,25
+Kyoto
+Takamatsunomiya Kinen
+3,26
+Monticello
+_preps,Risen Star Stakes,Hyacinth Stakes,Fountain of Youth Stakes,Tampa Bay Derby,San Felipe Stakes
+Louisiana Derby
+3,26
+Monticello
+_preps,UAE Oaks,Davona Dale Stakes,Santa Ysabel
+Fair Ground Oaks
+3,26
+Monticello
+Mardi Gras Stakes
+3,26
+Monticello
+Muniz Memorial Handicap
+3,26
+Monticello
+New Orleans Handicap
+3,26
+Monticello
+Orchid Stakes
+3,27
+_evening
+Dubai
+UAE Derby
+3,27
+_evening
+Dubai
+Al Quoz Sprint
+3,27
+_evening
+Dubai
+Godolphin Mile
+3,27
+_evening
+Dubai
+Dubai Gold Cup
+3,27
+_evening
+Dubai
+Dubai Golden Shaheen
+3,27
+_evening
+Dubai
+Dubai Sheema Classic
+3,27
+_evening
+Dubai
+Dubai World Cup
+3,28
+Florida
+_preps,Hyacinth Stakes,Tampa Bay Derby,Risen Star Stakes
+Florida Derby
+3,28
+Florida
+_preps,UAE Oaks,Davona Dale Stakes,Santa Ysabel,Fair Ground Oaks
+Gulfstream Oaks
+3,28
+Florida
+Skip Away Stakes
+3,28
+Florida
+Gulfstream Park Mile
+3,28
+Florida
+Pan American Stakes
+3,30
+Rosehill
+HE Tancred Stakes
+3,30
+Rosehill
+Vinery Stud Stakes
+3,30
+Rosehill
+Tulloch Stakes
+3,30
+Rosehill
+Emancipation Stakes
+3,30
+Rosehill
+TL Baillieu Handicap
+3,30
+Rosehill
+Doncaster Prelude
+3,30
+Rosehill
+Star Kingdom Stakes
+3,30
+Rosehill
+Neville Sellwood Stakes
+3,30
+Moonee Valley
+Wyong Cup
+3,30
+Moonee Valley
+Forster Cup
+3,30
+Moonee Valley
+Rain Cup
+3,30
+Moonee Valley
+Happy Clapper Cup
+3,31
+Ellerslie
+Manawatu Classic
+3,31
+Ellerslie
+Awapuni Gold Cup
+4,3
+New York
+_preps,Louisiana Derby,UAE Derby,Florida Derby
+Wood Memorial Stakes
+4,3
+New York
+_preps,'Fair Ground Oaks,Gulfstream Oaks'
+Gazelle Stakes
+4,3
+New York
+Carter Handicap
+4,3
+New York
+Bay Shore Stakes
+4,3
+New York
+Excelsior Stakes
+4,4
+Morphettville
+Manihi Classic
+4,4
+Morphettville
+Laelia Stakes
+4,4
+Caulfield
+Bendigo Stakes
+4,4
+Caulfield
+Golden Mile
+4,4
+Caulfield
+Galilee Series Final
+4,4
+Ascot
+WA Oaks
+4,4
+Ascot
+Melvista Stakes
+4,4
+Ascot
+Karrakatta Plate
+4,4
+Ascot
+Old Comrade Stakes
+4,4
+Ascot
+Pinjarra Cup
+4,4
+Ascot
+Marjorie Charleston Classic
+4,4
+Ascot
+Geraldton Cup
+4,4
+Ascot
+West Australian Cup
+4,5
+Randwick
+_preps,Doncaster Prelude
+Doncaster Handicap
+4,5
+Randwick
+TJ Smith Stakes
+4,5
+Randwick
+_preps,Randwick Guineas,Rosehill Guineas
+AJC Australian Derby
+4,5
+Randwick
+AJC Sires Produce Stakes
+4,5
+Randwick
+Carbine Club Stakes
+4,5
+Randwick
+Kindergarten Stakes
+4,6
+Kentucky
+_preps,Louisiana Derby,UAE Derby,Florida Derby,Wood Memorial Stakes
+Blue Grass Stakes
+4,6
+Kentucky
+_preps,Fair Ground Oaks,Gulfstream Oaks,Gazelle Stakes
+Ashland Stakes
+4,6
+Kentucky
+Madison Stakes
+4,6
+Kentucky
+Commonwealth Stakes
+4,6
+Kentucky
+Shakertown Stakes
+4,6
+Kentucky
+_preps,Fair Ground Oaks,Gulfstream Oaks,Gazelle Stakes,Ashland Stakes
+Beaumont Stakes
+4,7
+Ellerslie
+Manawatu Sire Produce Stakes
+4,7
+Ellerslie
+New Zealand Breeders Stakes
+4,8
+Arcadia
+_preps,Louisiana Derby,UAE Derby,Florida Derby,Wood Memorial
+Santa Anita Derby
+4,8
+Arcadia
+_preps,Fair Ground Oaks,Gulfstream Oaks,Gazelle Stakes,Ashland Stakes
+Santa Anita Oaks
+4,8
+Arcadia
+Royal Heroine Stakes
+4,8
+Arcadia
+Providencia Stakes
+4,8
+Arcadia
+Echo Eddie Stakes
+4,8
+Arcadia
+Evening Jewel Stakes
+4,9
+Randwick
+Chairmans Handicap
+4,9
+Randwick
+Adrian Knox Quality Stakes
+4,9
+Randwick
+PJ Bell Stakes
+4,9
+Randwick
+Fernhill Handicap
+4,9
+Randwick
+South Pacific Classic
+4,10
+Hanshin
+Hanshin Himba Stakes
+4,10
+Hanshin
+Arlington Cup
+4,10
+Hanshin
+Antares Stakes
+4,10
+Hanshin
+Niigata Diashoten
+4,10
+Hanshin
+Niigata Nisai Stakes
+4,10
+Hanshin
+Oka Sho (Japanese 1000 Guineas)
+4,10
+Arkansas
+_preps,Fair Ground Oaks,Gulfstream Oaks,Gazelle Stakes,Ashland Stakes,Beaumont Stakes,Santa Anita Oaks
+Fantasy Stakes
+4,10
+Arkansas
+_preps,Louisiana Derby,UAE Derby,Florida Derby,Wood Memorial Stakes,Blue Grass Stakes,Santa Anita Derby
+Arkansas Derby
+4,10
+Arkansas
+Count Fleet Sprint
+4,10
+Arkansas
+Oaklawn Handicap
+4,10
+Arkansas
+Apple Blossom Stakes
+4,11
+Randwick
+Queen Elizabeth Stakes
+4,11
+Randwick
+_preps,Doncaster Prelude,Doncaster Handicap
+Doncaster Mile
+4,11
+Randwick
+AJC Oaks
+4,11
+Randwick
+Queen of the Turf Stakes
+4,11
+Randwick
+Percy Sykes Stakes
+4,11
+Randwick
+Arrowfield 3YO Sprint
+4,11
+Randwick
+Sapphire Stakes
+4,11
+Morphettville
+Schweppervescence Stakes
+4,11
+Morphettville
+RN Irwin Stakes
+4,11
+Morphettville
+Dequetteville Stakes
+4,11
+Morphettville
+Port Adelaide Guineas
+4,11
+Morphettville
+Redelva Stakes
+4,12
+Caulfield
+Anniversary Vase
+4,12
+Caulfield
+Bel Espirit Stakes
+4,12
+Brisbane
+Weetwood Handicap
+4,12
+Ascot
+WATC Derby
+4,12
+Ascot
+Raconteur Stakes
+4,12
+Ascot
+WA Sires Produce Stakes
+4,12
+Ascot
+Matchmaker Stakes
+4,18
+Oakbank
+Oakbank Stakes
+4,18
+Oakbank
+Kingston Cup
+4,18
+Oakbank
+Smithton Cup
+4,18
+Oakbank
+Genuine Risk Cup
+4,18
+Oakbank
+Red Craze Cup
+4,18
+Randwick
+All Aged Stakes
+4,18
+Randwick
+Champagne Stakes
+4,18
+Randwick
+JHB Carr Stakes
+4,18
+Randwick
+Frank Packer Plate
+4,18
+Randwick
+Hall Mark Stakes
+4,18
+Randwick
+Japan Racing Assoc Plate
+4,18
+Brisbane
+Ascot Handicap
+4,18
+Brisbane
+Tails Quality Handicap
+4,18
+Brisbane
+Princess Stakes
+4,18
+Brisbane
+Mick Dittman Plate
+4,19
+Tokyo
+Flora Stakes
+4,19
+Tokyo
+Aoba Sho
+4,19
+Tokyo
+Oasis Stakes
+4,19
+Tokyo
+Metropolitan Stakes
+4,19
+Tokyo
+Brilliant Stakes
+4,21
+Ellerslie
+Canterbury Gold Cup
+4,21
+Ellerslie
+Easter Handicap
+4,21
+Ellerslie
+Championship Stakes
+4,21
+Ellerslie
+Cambridge Breeders Stakes
+4,21
+Ellerslie
+Dulcie Stakes
+4,25
+Caulfield
+Easter Cup
+4,25
+Caulfield
+Victoria Handicap
+4,25
+Caulfield
+Redoutes Choice Stakes
+4,25
+Flemington
+VRC St Leger
+4,25
+Flemington
+ANZAC Day Stakes
+4,25
+Ascot
+Diggers Cup
+4,25
+Ascot
+Ngawyni Trophy
+4,25
+Ascot
+Swan River Vase
+4,26
+Warwick Farm
+Hawkesbury Gold Cup
+4,26
+Warwick Farm
+Hawkesbury Guineas
+4,26
+Warwick Farm
+Darley Crown
+4,26
+Warwick Farm
+Hawkesbury Gold Rush
+4,26
+Brisbane
+Victory Stakes
+4,26
+Brisbane
+Gunsynd Classic
+4,26
+Brisbane
+Dalrello Stakes
+4,26
+Morphettville
+Chairmans Stakes
+4,26
+Morphettville
+HC Nitschke Stakes
+4,26
+Morphettville
+Breeders Stakes
+4,26
+Morphettville
+City of Adelaide Handicap
+4,28
+Sha Tin
+Queen Elizabeth II Cup
+4,28
+Sha Tin
+Queen Mother Memorial Cup
+4,29
+Kyoto
+_preps,Melbourne Cup
+Tenno Sho Spring
+4,29
+Kyoto
+Yomiuri Milers Cup
+4,29
+Kyoto
+Tanigawadake Stakes
+5,2
+Warrnambool
+Wangoom Handicap
+5,2
+Warrnambool
+Warrnambool Cup
+5,2
+Rosehill
+Wagga Wagga Gold Cup
+5,2
+Rosehill
+Lord Mayors Cup
+5,3
+Doomben
+AD Hollindale Stakes
+5,3
+Doomben
+Ken Russell Memorial Classic
+5,3
+Doomben
+Gold Coast Guineas
+5,3
+Doomben
+Silk Stocking
+5,3
+Doomben
+The Bracelet
+5,3
+Doomben
+Prime Ministers Cup
+5,3
+Morphettville
+UBET Classic
+5,3
+Morphettville
+Schweppes Oaks
+5,3
+Morphettville
+Euclase Stakes
+5,3
+Morphettville
+Queen of the South Stakes
+5,3
+Morphettville
+DC McKay Stakes
+5,3
+Morphettville
+Queen Adelaide Stakes
+5,3
+Morphettville
+SATC Sire Produce Stakes
+5,3
+Morphettville
+Adelaide Guineas
+5,5
+Tokyo
+NHK Mile Cup
+5,5
+Tokyo
+Keio Hai Spring Cup
+5,5
+Tokyo
+Victoria Mile
+5,5
+Tokyo
+Meguro Kinen
+5,5
+Tokyo
+Yushun Himba
+5,5
+Tokyo
+Tokyo Yushun
+5,6
+Sha Tin
+Champion's Mile
+5,6
+Sha Tin
+_preps,'Lightning Stakes'
+Champion's Sprint Prize
+5,7
+Kentucky
+_preps,'Fair Ground Oaks,Gulfstream Oaks,Gazelle Stakes,Ashland Stakes,Beaumont Stakes,Santa Anita Oaks,Fantasy Stakes'
+Kentucky Oaks
+5,7
+Kentucky
+_preps,'Louisiana Derby,UAE Derby,Florida Derby,Wood Memorial Stakes,Blue Grass Stakes,Santa Anita Derby,Arkansas Derby'
+Kentucky Derby
+5,7
+Kentucky
+Humana Distaff
+5,7
+Kentucky
+Chuchill Downs Stakes
+5,7
+Kentucky
+Twin Spires Turf Sprint
+5,7
+Kentucky
+Old Forester Turf Classic
+5,9
+Randwick
+Scone Cup
+5,9
+Randwick
+Dark Jewel Classic
+5,9
+Randwick
+Ortensia Stakes
+5,9
+Randwick
+Luskin Star Stakes
+5,9
+Randwick
+Woodlands Stakes
+5,9
+Randwick
+Denises Joy Stakes
+5,9
+Randwick
+Inglis Guineas
+5,9
+Randwick
+Canberra Cup
+5,9
+Doomben
+Doomben 10000
+5,9
+Doomben
+Champagne Classic
+5,9
+Doomben
+Chairmans Handicap
+5,9
+Doomben
+Rough Habit Plate
+5,9
+Doomben
+Members Handicap
+5,9
+Doomben
+Queensland Day Stakes
+5,9
+Morphettville
+SA Derby
+5,9
+Morphettville
+The Goodward
+5,9
+Morphettville
+RA Lee Stakes
+5,9
+Morphettville
+National Stakes
+5,9
+Morphettville
+SA Fillies Classic
+5,9
+Morphettville
+Proud Miss Stakes
+5,9
+Morphettville
+Port Adelaide Cup
+5,9
+Morphettville
+Centaurea Stakes
+5,12
+Trentham
+Rotorua Cup
+5,12
+Trentham
+Rotorua Stakes
+5,16
+Flemington
+Andrew Ramsden Stakes
+5,16
+Flemington
+The Straight Six
+5,16
+Flemington
+Gatton Cup
+5,16
+Flemington
+Domino Cup
+5,16
+Flemington
+Dance Hero Cup
+5,16
+Ascot
+Roma Cup
+5,16
+Doomben
+Doomben Cup
+5,16
+Doomben
+The Roses
+5,16
+Doomben
+BRC Sprint
+5,16
+Doomben
+Bill Carter Stakes
+5,16
+Doomben
+Bright Shadow Quality
+5,16
+Doomben
+Chief De Beers Quality
+5,19
+Baltimore
+_preps,Kentucky Derby
+Preakness Stakes
+5,19
+Baltimore
+_preps,Kentucky Oaks
+Black-Eyed Susan Stakes
+5,19
+Baltimore
+Miss Preakness Stakes
+5,19
+Baltimore
+Maryland Sprint Stakes
+5,19
+Baltimore
+Plimco Special
+5,19
+Baltimore
+Searching Stakes
+5,23
+Doomben
+Lord Mayors Cup
+5,23
+Doomben
+Premiers Cup
+5,24
+Brisbane
+Kingsford-Smith Cup
+5,24
+Brisbane
+BRC Sires Produce Stakes
+5,24
+Brisbane
+Fred Best Classic
+5,24
+Brisbane
+Glenlogan Park Stakes
+5,24
+Brisbane
+Grand Prix Stakes
+5,27
+Sha Tin
+Standard Chartered Cup
+5,27
+Sha Tin
+Sha Tin Vase
+5,28
+Kyoto
+Kyoto Shimbun Hai
+5,28
+Kyoto
+Heian Stakes
+5,28
+Kyoto
+Miyakooji Stakes
+5,28
+Kyoto
+Ritto Stakes
+5,28
+Kyoto
+Aoi Stakes
+5,28
+Kyoto
+Keyaki Stakes
+6,1
+Brisbane
+Queensland Oaks
+6,1
+Brisbane
+PJ OShea Stakes
+6,1
+Brisbane
+Moreton Cup
+6,1
+Brisbane
+The Phoenix
+6,1
+Brisbane
+Lightning Handicap
+6,2
+Tokyo
+Yasuda Kinen
+6,2
+Tokyo
+Epsom Cup
+6,2
+Tokyo
+Unicorn Stakes
+6,2
+Tokyo
+Akhalteke
+6,2
+Tokyo
+Paradise Stakes
+6,2
+Tokyo
+Hakodate Sprint Stakes
+6,2
+Brisbane
+Spear Chief Handicap
+6,2
+Brisbane
+Oxlade Stakes
+6,2
+Brisbane
+Helen Coughlin Stakes
+6,2
+Brisbane
+Queensland Derby
+6,5
+Arcadia
+Gamely Stakes
+6,5
+Arcadia
+Shoemaker Mile
+6,5
+Arcadia
+The Gold Cup at Santa Anita
+6,5
+Arcadia
+Santa Maria Stakes
+6,5
+Arcadia
+Honeymoon Stakes
+6,6
+Brisbane
+Stradbroke Handicap
+6,6
+Brisbane
+JJ Atkins
+6,6
+Brisbane
+Queensland Guineas
+6,6
+Brisbane
+Dane Ripper Stakes
+6,6
+Brisbane
+Daybreak Lover
+6,6
+Brisbane
+Hinkler Handicap
+6,6
+Brisbane
+The Wayne Wilson
+6,6
+Randwick
+WJ McKell Cup
+6,2
+Brooklyn
+_preps,Kentucky Derby,Preakness Stakes
+Brooklyn Stakes
+6,2
+Brooklyn
+Metropolitan Handicap
+6,2
+Brooklyn
+Ogden Phipps Handicap
+6,2
+Brooklyn
+Jaipur Invitational
+6,2
+Brooklyn
+Woodford Reserve Manhattan Stakes
+6,2
+Brooklyn
+Just a Game Stakes
+6,2
+Brooklyn
+_preps,Kentucky Oaks,Black-Eyed Susan Stakes
+Acorn Stakes
+6,13
+Ascot
+Belmont Sprint
+6,13
+Ascot
+Beaufine Stakes
+6,13
+Ascot
+Hyperion Stakes
+6,13
+Doomben
+Eye Liner Stakes
+6,13
+Doomben
+Ipswich Cup
+6,13
+Doomben
+Gai Waterhouse Classic
+6,13
+Doomben
+Sunshine Coast Guineas
+6,13
+Doomben
+Caloundra City Cup
+6,13
+Doomben
+Glasshouse Handicap
+6,16
+Louisville
+Stephen Foster Stakes
+6,16
+Louisville
+Fleur De Lis Stakes
+6,16
+Louisville
+Matt Winn Stakes
+6,16
+Louisville
+Regret Stakes
+6,16
+Louisville
+Wise Dan Stakes
+6,17
+Ascot
+King's Stand Stakes
+6,17
+Ascot
+Queen Anne Stakes
+6,17
+Ascot
+St James's Palace Stakes
+6,17
+Ascot
+Wolferton Stakes
+6,17
+Ascot
+Ascot Stakes
+6,18
+Ascot
+Jersey Stakes
+6,18
+Ascot
+Queen Mary Stakes
+6,18
+Ascot
+Duke of Cambridge Stakes
+6,18
+Ascot
+Prince of Wales's Stakes
+6,18
+Ascot
+Royal Hunt Cup
+6,18
+Ascot
+Queen's Vase
+6,19
+Ascot
+Norfolk Stakes
+6,19
+Ascot
+Hampton Court Stakes
+6,19
+Ascot
+Ribblesdale Stakes
+6,19
+Ascot
+Gold Cup
+6,19
+Ascot
+Britannia Stakes
+6,19
+Ascot
+King George V Stakes
+6,20
+Ascot
+Albany Stakes
+6,20
+Ascot
+King Edward VII Stakes
+6,20
+Ascot
+Commonwealth Cup
+6,20
+Ascot
+Coronation Stakes
+6,20
+Ascot
+Sandringham Stakes
+6,20
+Ascot
+Duke of Edinburgh Stakes
+6,21
+Ascot
+Chesham Stakes
+6,21
+Ascot
+Hardwicke Stakes
+6,21
+Ascot
+Windsor Castle Stakes
+6,21
+Ascot
+Diamond Jubilee Stakes
+6,21
+Ascot
+Wokingham Stakes
+6,21
+Ascot
+Queen Alexandra Stakes
+6,21
+Caulfield
+Sir John Monash Stakes
+6,21
+Caulfield
+Bletchingly Stakes
+6,21
+Rosehill
+Civic Stakes
+6,21
+Rosehill
+Winter Cup
+6,21
+Rosehill
+Winter Stakes
+6,21
+Rosehill
+Winter Challenge
+6,22
+Hanshin
+Takarazuka Kinen
+6,22
+Hanshin
+Naruo Kinen
+6,22
+Hanshin
+Mermaid Stakes
+6,22
+Hanshin
+Tempozan Stakes
+6,22
+Hanshin
+Yonago Stakes
+6,22
+Hanshin
+Onuma Stakes
+6,27
+Doomben
+Tattersalls Tiara
+6,27
+Doomben
+Tattersalls Cup
+6,27
+Doomben
+WJ Healy Stakes
+6,27
+Doomben
+Mercedes Benz Stakes
+6,27
+Doomben
+Tattersalls Racing Club Open
+6,27
+Doomben
+Tattersalls Mile
+6,27
+Doomben
+Queensland Cup
+6,27
+Ascot
+Belmont Guineas
+6,27
+Ascot
+HG Bolton Sprint
+6,27
+Ascot
+Strickland Stakes
+6,27
+Ascot
+Aquanita Stakes
+6,27
+Ascot
+Belmont Oaks
+6,27
+Ascot
+Belmont Classic
+6,27
+Randwick
+June Stakes
+6,27
+Randwick
+Ramornie Handicap
+6,27
+Randwick
+Grafton Cup
+6,28
+Flemington
+VRC Winter Championship
+6,28
+Flemington
+All Victorian Sprint Final
+6,28
+Flemington
+AR Creswick Stakes
+6,28
+Flemington
+Taj Rossi Series Final
+6,28
+Morphettville
+Oaklands Plate
+6,28
+Morphettville
+Lightning Stakes
+7,6
+Brooklyn
+John A. Nerud Stakes
+7,6
+Brooklyn
+Belmont Oaks
+7,6
+Brooklyn
+Belmont Derby
+7,6
+Brooklyn
+Belmont Sprint Championship
+7,6
+Brooklyn
+Suburban Stakes
+7,6
+Brooklyn
+Victory Ride Stakes
+7,7
+Tokyo
+Hakodate Kinen
+7,7
+Tokyo
+CBC Sho
+7,7
+Tokyo
+Procyon Stakes
+7,7
+Tokyo
+Chukyo Kinen
+7,7
+Tokyo
+Hakodate Nisai Stakes
+7,7
+Tokyo
+Meitetsu Hai
+7,7
+Tokyo
+Sport Hochi Hai
+7,11
+Caulfield
+Bundaberg Mile
+7,11
+Caulfield
+Wingman Handicap
+7,11
+Caulfield
+Magnitude Stakes
+7,11
+Caulfield
+Storm Forge Stakes
+7,11
+Morphettville
+Fire It Up Sprint
+7,11
+Morphettville
+Royal Rose Classic
+7,11
+Morphettville
+Intrepid Mile Handicap
+7,11
+Morphettville
+Blackjack Bandit Handicap
+7,12
+Newmarket
+Duchess of Cambridge Stakes
+7,12
+Newmarket
+Falmouth Stakes
+7,18
+New Jersey
+Oceanport Stakes
+7,18
+New Jersey
+Molly Pitcher Stakes
+7,18
+New Jersey
+Monmouth Cup Stakes
+7,18
+New Jersey
+Matchmaker Stakes
+7,18
+New Jersey
+_preps,Kentucky Derby,Brooklyn Stakes,Preakness Stakes
+Haskell Invitational Stakes
+7,23
+Nakayama
+Radio Nikkei Sho
+7,23
+Nakayama
+Ibis Summer Dash
+7,23
+Nakayama
+Queen Stakes
+7,23
+Nakayama
+Baden-Baden Cup
+7,23
+Nakayama
+Fukushima TV Open
+7,23
+Nakayama
+Dahlia Sho
+7,25
+Ascot
+King George IV & Queen Elizabeth Stakes
+7,25
+Ascot
+Princess Margaret Keeneland Stakes
+8,14
+Chicago
+Beverly D. Stakes
+8,14
+Chicago
+Arlington Million
+8,14
+Randwick
+Missle Stakes
+8,14
+Randwick
+The Rosebud
+8,14
+Caulfield
+Auries Star Handicap
+8,15
+Ascot
+New Season Sprint
+8,15
+Ascot
+Port Hedland Cup
+8,15
+Ascot
+Broome Sprint
+8,15
+Ascot
+Peninsula Mile
+8,17
+Trentham
+Winter Cup
+8,18
+Randwick
+Show County Quality Handicap
+8,18
+Randwick
+Toy Show Fillies and Mares Quality
+8,18
+Morphettville
+Spring Stakes
+8,18
+Morphettville
+Morphettville Newmarket
+8,18
+Caulfield
+PB Lawrence Stakes
+8,18
+Caulfield
+Vain Stakes
+8,18
+Caulfield
+Quezette Stakes
+8,18
+Caulfield
+Regal Roller Stakes
+8,19
+Ellerslie
+Foxbridge Plate
+8,22
+Saratoga Springs
+Fourstardave H. Stakes
+8,22
+Saratoga Springs
+Whitney Handicap
+8,23
+Randwick
+Rowley Mile
+8,24
+Kyoto
+Leopard Stakes
+8,24
+Kyoto
+Sekiya Kinen
+8,24
+Kyoto
+Kitakyushu Kinen
+8,24
+Kyoto
+Sapporo Nikkei Open
+8,25
+Rosehill
+San Domenico Stakes
+8,25
+Rosehill
+Ming Dynasty Quality Handicap
+8,25
+Rosehill
+Rosehill Premiers Cup
+8,25
+Moonee Valley
+Mitchell McKenzie Stakes
+8,25
+Moonee Valley
+Carlyon Stakes
+8,27
+California
+Pacific Classic Stakes
+8,27
+California
+Del Mar Handicap
+8,28
+York
+Juddmonte International Stakes
+8,28
+York
+Yorkshire Oaks
+8,28
+York
+Nunthorpe Stakes
+8,28
+York
+Lonsdale Cup
+8,29
+Hanshin
+Kokura Kinen
+8,29
+Hanshin
+Elm Stakes
+8,29
+Hanshin
+Sapporo Kinen
+8,29
+Hanshin
+Keeneland Cup
+8,30
+Saratoga Springs
+Personal Ensign Stakes
+8,30
+Saratoga Springs
+Ballerina Stakes
+8,30
+Saratoga Springs
+Sword Dancer Stakes
+8,30
+Saratoga Springs
+Forego Handicap
+8,30
+Saratoga Springs
+Spinaway Stakes
+8,31
+Warrnambool
+Warrnambool Gold Cup
+8,31
+Warrnambool
+Mona Lisa Stakes
+9,1
+Randwick
+Chelmsford Stakes
+9,1
+Randwick
+Concorde Stakes
+9,1
+Randwick
+The Health 1100
+9,1
+Caulfield
+Heatherlie Handicap
+9,1
+Newmarket
+1000 Guineas
+9,1
+Newmarket
+2000 Guineas
+9,2
+Hastings
+Tarzino Trophy
+9,2
+Ascot
+Penny Edition Stakes
+9,2
+Ascot
+Idyllic Prince Stakes
+9,2
+Brisbane
+Brisbane Cup
+9,2
+Brisbane
+Cameron Handicap
+9,2
+Brisbane
+Tibbie Stakes
+9,4
+Hanshin
+Sirius Stakes
+9,4
+Hanshin
+Kobe Shimbun Hai
+9,4
+Hanshin
+Rose Stakes
+9,4
+Hanshin
+Centaur Stakes
+9,4
+Hanshin
+Niigata Kinen
+9,4
+Hanshin
+Tancho Stakes
+9,5
+Rosehill
+The Run to the Rose
+9,5
+Rosehill
+Sheraco Stakes
+9,5
+Morphettville
+Morphettville Guineas
+9,5
+Morphettville
+Morphettville Stakes
+9,5
+Moonee Valley
+McEwan Stakes
+9,5
+Moonee Valley
+Chandler MacLeod Stakes
+9,5
+Moonee Valley
+Atlantic Jewel Stakes
+9,9
+Toronto
+Woodbine Mile
+9,9
+Toronto
+Natalma Stakes
+9,9
+Toronto
+Summer Stakes
+9,9
+Toronto
+Bold Venture Stakes
+9,9
+Toronto
+Canadian Stakes
+9,9
+Toronto
+Northern Dancer Turf
+9,10
+Morphettville
+Morphettville Cup
+9,10
+Morphettville
+Goulburn Cup
+9,10
+Morphettville
+Maitland Cup
+9,10
+Morphettville
+RedRum Cup
+9,10
+Morphettville
+Sea Hero Cup
+9,11
+Leopardstown
+Matron Stakes
+9,11
+Leopardstown
+Juvenile Stakes
+9,11
+Leopardstown
+_preps,Osaka Hai
+Irish Champion Stakes
+9,12
+Randwick
+George Main Stakes
+9,12
+Randwick
+Bill Ritchie Handicap
+9,12
+Randwick
+Heritage Stakes
+9,12
+Flemington
+Makybe Diva Stakes
+9,12
+Flemington
+Bobbie Lewis Quality
+9,12
+Flemington
+Lets Elope Stakes
+9,12
+Flemington
+Exford Plate
+9,12
+Flemington
+Cap D'Antibes Stakes
+9,12
+Flemington
+Tontonan Stakes
+9,12
+Ascot
+Farnley Stakes
+9,12
+Ascot
+Coolgardie Cup
+9,12
+Ascot
+Carnarvon Cup
+9,16
+Otaki
+Northland Breeders Stakes
+9,16
+Otaki
+Merial Metric Mile
+9,18
+Nakayama
+_preps,Nunthorpe Stakes
+Sprinters Stakes
+9,18
+Nakayama
+All Comers
+9,18
+Nakayama
+St Lite Kinen
+9,18
+Nakayama
+Keisei Hai Autumn Handicap
+9,18
+Nakayama
+Shion Stakes
+9,18
+Nakayama
+Kokura Nisai Stakes
+9,19
+Rosehill
+Golden Rose Stakes
+9,19
+Rosehill
+Golden Pendant
+9,19
+Morphettville
+Tokyo City Cup
+9,19
+Morphettville
+WH Wylie Handicap
+9,19
+Caulfield
+Sir Rupert Clarke Stakes
+9,19
+Caulfield
+Naturalism Stakes
+9,19
+Caulfield
+How Now Stakes
+9,19
+Caulfield
+Jim Moloney Stakes
+9,20
+Hastings
+Gold Trail Stakes
+9,20
+Hastings
+Windsor Park Plate
+9,20
+Ascot
+Boulder Cup
+9,21
+Louisville
+Iroquois Stakes
+9,21
+Louisville
+Pocahontas Stakes
+9,21
+Louisville
+Franklin-Simpson Stakes
+9,21
+Louisville
+Open Mind Stakes
+9,26
+Moonee Valley
+AJ Moir Stakes
+9,26
+Moonee Valley
+Bill Stutt Stakes
+9,26
+Moonee Valley
+WH Stocks Stakes
+9,26
+Moonee Valley
+JRA Cup
+9,26
+Moonee Valley
+Scarborough Stakes
+9,27
+Randwick
+The Metropolitan
+9,27
+Randwick
+Flight Stakes
+9,27
+Randwick
+Epsom Handicap
+9,27
+Randwick
+Hill Stakes
+9,27
+Randwick
+Breeders Plate
+9,27
+Randwick
+Gimcrack Stakes
+9,27
+Randwick
+Dulcify 3yo Quality Handicap
+9,27
+Morphettville
+RM Ansett Classic
+9,27
+Caulfield
+Caulfield Guineas Prelude
+9,27
+Caulfield
+Testa Rossa Stakes
+9,28
+Brooklyn
+Jockey Club Gold Cup
+9,28
+Brooklyn
+Joe Hirsch Turf Classic
+9,28
+Brooklyn
+Vosburgh Stakes
+9,28
+Brooklyn
+Beldame
+9,28
+Brooklyn
+Pilgrim Stakes
+9,28
+Brooklyn
+Miss Grillo Stakes
+9,28
+Brooklyn
+Kelso Handicap
+9,28
+Brooklyn
+Hill Prince Stakes
+9,30
+Caulfield
+Underwood Stakes
+9,30
+Caulfield
+Thousand Guineas Prelude
+9,30
+Arcadia
+_preps,Iroquois Stakes
+American Pharaoh Stakes
+9,30
+Arcadia
+Chandelier Stakes
+9,30
+Arcadia
+Eddie D Stakes
+9,30
+Arcadia
+_preps,Stephen Foster Stakes,Whitney Handicap,Pacific Classic
+Awesome Again Stakes
+9,30
+Arcadia
+Rodeo Drive Stakes
+9,30
+Arcadia
+Zenyatta Stakes
+10,1
+Longchamp
+_preps,Juvenile Stakes,Summer Stakes
+Prix Jean-Luc Lagardere
+10,1
+Longchamp
+Prix de l'Opera
+10,1
+Longchamp
+Prix Marcel Boussac
+10,2
+Epsom
+Princess Elizabeth Stakes
+10,2
+Epsom
+Diomed Stakes
+10,2
+Epsom
+Coronation Cup
+10,2
+Epsom
+_preps,1000 Guineas
+Epsom Oaks
+10,2
+Epsom
+_preps,2000 Guineas
+Epsom Derby
+10,2
+Ascot
+Hannah's Handicap
+10,2
+Ascot
+Busselton Cup
+10,2
+Ascot
+Geraldton Cup
+10,2
+Ascot
+Kwinana Cup
+10,2
+Ascot
+Forward Pass Cup
+10,4
+Newmarket
+_preps,Juvenile Stakes,Summer Stakes
+Royal Lodge Stakes
+10,4
+Newmarket
+Rockfel Stakes
+10,6
+Randwick
+Spring Champions Stakes
+10,6
+Randwick
+Roman Consul Stakes
+10,6
+Randwick
+Angst Stakes
+10,6
+Flemington
+Turnbull Stakes
+10,6
+Flemington
+Edward Manifold Stakes
+10,6
+Flemington
+Gilgai Stakes
+10,6
+Flemington
+Rose of Kingston Stakes
+10,6
+Flemington
+The Bart Cummings
+10,6
+Ascot
+Kalgoorlie Cup
+10,6
+Ascot
+Birthday Stakes
+10,6
+Ascot
+Initial Plate
+10,6
+Ascot
+TABTouch 3yo Classic
+10,7
+Hastings
+Spring Sprint
+10,7
+Hastings
+Hawkes Bay Guineas
+10,7
+Flemington
+Poseidon Stakes
+10,7
+Flemington
+Maribyrnong Trial Stakes
+10,7
+Flemington
+Paris Lane Stakes
+10,7
+Flemington
+Super Impose Plate
+10,10
+Brooklyn
+_preps,Iroquois Stakes, American Pharoah Stakes
+Champagne Stakes
+10,10
+Brooklyn
+Matron Stakes
+10,10
+Brooklyn
+Flower Bowl
+10,10
+Brooklyn
+_preps,Pocahontas Stakes,Chandelier Stakes
+Frizette Stakes
+10,10
+Brooklyn
+Belmont Futurity Stakes
+10,10
+Brooklyn
+Knickerbocker Stakes
+10,11
+Kentucky
+_preps,Personal Ensign Stakes,Zenyatta Stakes
+Spinster Stakes
+10,11
+Kentucky
+First Lady Stakes
+10,11
+Kentucky
+_preps,Juvenile Stakes,Summer Stakes,Royal Lodge Stakes,Prix Jean-Luc Lagardere
+Bourbon Stakes
+10,11
+Kentucky
+_preps,Natalma Stakes,Rockfel Stakes,Prix Marcel Boussac
+Jessamine Stakes
+10,11
+Kentucky
+_preps,Pocahontas Stakes,Chandelier Stakes
+Alcibiades Stakes
+10,11
+Kentucky
+_preps,Iroquois Stakes, American Pharoah Stakes
+Thoroughbred Club of America Stakes
+10,13
+Randwick
+THE EVEREST
+10,13
+Randwick
+Sydney Stakes
+10,13
+Randwick
+Sydney Cup
+10,13
+Randwick
+Craven Plate
+10,13
+Randwick
+Reginald Allen Quality Handicap
+10,13
+Morphettville
+Hill Smith Stakes
+10,13
+Morphettville
+Durbridge Stakes
+10,13
+Caulfield
+Caulfield Stakes
+10,13
+Caulfield
+Thousand Guineas
+10,13
+Caulfield
+Schillaci Stakes
+10,13
+Caulfield
+Herbert Power Stakes
+10,13
+Caulfield
+Thoroughbred Club Stakes
+10,13
+Caulfield
+Northwood Plume Stakes
+10,13
+Caulfield
+Weekend Hussler
+10,14
+Otaki
+Taranaki Breeders Stakes
+10,15
+Ascot
+BC Sprint Stakes
+10,15
+Ascot
+BC Long Distance Cup
+10,15
+Ascot
+BC Fillies & Mares Stakes
+10,15
+Ascot
+Queen Elizabeth II Stakes
+10,15
+Ascot
+Champion Stakes
+10,15
+Ascot
+Balmorel Handicap
+10,15
+Randwick
+Tamworth Cup
+10,15
+Randwick
+Dubbo Cup
+10,15
+Randwick
+Winton Cup
+10,15
+Randwick
+Ajax Cup
+10,17
+Caulfield
+Blue Sapphire Stakes
+10,17
+Caulfield
+Ladies Day Vase
+10,17
+Caulfield
+Caulfield Village Stakes
+10,17
+Caulfield
+Debutant Stakes
+10,17
+Caulfield
+Toorak Handicap
+10,17
+Caulfield
+Caulfield Guineas
+10,17
+Caulfield
+Alinghi Stakes
+10,19
+Morphettville
+Murray Bridge Gold Cup
+10,20
+Randwick
+The Nivison
+10,20
+Randwick
+Brian Crowley Stakes
+10,20
+Randwick
+City Tatts Club Cup
+10,20
+Caulfield
+Caulfield Cup
+10,20
+Caulfield
+Caulfield Sprint
+10,20
+Caulfield
+Tristarc Stakes
+10,20
+Caulfield
+Caulfield Classic
+10,20
+Caulfield
+Priceline Cup
+10,20
+Caulfield
+Moonga Stakes
+10,20
+Caulfield
+Gothic Stakes
+10,20
+Caulfield
+Ethereal Stakes
+10,20
+Ascot
+Northerly Stakes
+10,20
+Ascot
+RS Crawford Stakes
+10,21
+Kyoto
+Kyoto Daishoten
+10,21
+Kyoto
+_preps,Kentucky Oaks,Black-Eyed Susan Stakes,Acorn Stakes
+Shuka Sho
+10,21
+Kyoto
+Japanese St Leger
+10,21
+Kyoto
+Swan Stakes
+10,22
+Trentham
+Barneswood Farm Stakes
+10,23
+Hastings
+Livamol Classic
+10,24
+Warrnambool
+Seymour Cup
+10,24
+Warrnambool
+Geelong Cup
+10,24
+Warrnambool
+Geelong Classic
+10,24
+Warrnambool
+Black Pearl Stakes
+10,24
+Moonee Valley
+Red Anchor Stakes
+10,24
+Moonee Valley
+Tesio Stakes
+10,24
+Moonee Valley
+William Crocket Stakes
+10,24
+Moonee Valley
+Inglis Banner
+10,25
+Ellerslie
+Thompson Handicap
+10,25
+Ellerslie
+Alison Stakes
+10,25
+Ellerslie
+Sarten Memorial Stakes
+10,26
+Kyoto
+Tenno Sho Autumn
+10,26
+Kyoto
+Saudi Arabia Royal Cup
+10,26
+Tokyo
+Artemis Stakes
+10,26
+Tokyo
+Mainichi Okan
+10,26
+Tokyo
+Fuchu Himba Stakes
+10,26
+Tokyo
+Fuji Stakes
+10,27
+Moonee Valley
+Manikato Stakes
+10,27
+Moonee Valley
+Cox Plate
+10,27
+Moonee Valley
+Moonee Valley Gold Cup
+10,27
+Moonee Valley
+MV Vase
+10,27
+Moonee Valley
+Crystal Mile
+10,27
+Moonee Valley
+Moonee Valley Fillies Classic
+10,27
+Ascot
+Belgravia Stakes
+10,27
+Ascot
+Northam Cup
+11,1
+Flemington
+Bendigo Cup
+11,1
+Flemington
+Cantala Stakes
+11,1
+Flemington
+Coolmore Stud Series
+11,1
+Flemington
+Myer Classic
+11,1
+Flemington
+Linlithgow Stakes
+11,1
+Flemington
+Carbine Club Stakes
+11,1
+Flemington
+Begonia Belle Stakes
+11,1
+Ascot
+Asian Beau Stakes
+11,1
+Ascot
+Prince of Wales Stakes
+11,1
+Ascot
+York Cup
+11,2
+Flemington
+Wakeful Stakes
+11,2
+Flemington
+Lexus Stakes
+11,2
+Flemington
+Victoria Derby
+11,2
+Flemington
+Batman Stakes
+11,2
+Flemington
+Red Roses Stakes
+11,3
+Flemington
+_preps,'Sydney Cup,Lonsdale Cup,BC Long Distance Cup,Japanese St Leger'
+Melbourne Cup
+11,3
+Flemington
+HKJC Stakes
+11,3
+Flemington
+Ottawa Stakes
+11,3
+Flemington
+Melbourne Cup Day Plate
+11,3
+Flemington
+Lexus Hybrid Stakes
+11,3
+Flemington
+Miss Security Sprint
+11,3
+Warwick Farm
+Skin Fitness Cup
+11,3
+Warwick Farm
+Yass Cup
+11,3
+Warwick Farm
+Dampier Cup
+11,3
+Warwick Farm
+Strawberry Road Cup
+11,4
+Arcadia
+_preps,Iroquois Stakes,Champagne Stakes,Breeders' Futurity Stakes
+Breeders' Cup Juvenile
+11,4
+Arcadia
+_preps,Pocahontas Stakes,Chandelier Stakes,Alcidiades Stakes,Frizette Stakes
+Breeders' Cup Juvenile Fillies
+11,4
+Arcadia
+_preps,Belmont Futurity Stakes
+Breeders' Cup Juvenile Turf Sprint
+11,4
+Arcadia
+_preps,Natalma Stakes,Rockfel Stakes,Prix Marcel Boussac,Jessamine Stakes
+Breeders' Cup Juvenile Fillies Turf
+11,4
+Arcadia
+_preps,Juvenile Stakes,Summer Stakes,Royal Lodge Stakes,Bourbon Stakes,Prix Jean-Luc Lagardere
+Breeders' Cup Juvenile Turf
+11,5
+Arcadia
+_preps,Princess Rooney Handicap,Ballerina Stakes,Thoroughbred Club of America Stakes
+Breeders' Cup Filly & Mare Sprint
+11,5
+Arcadia
+_preps,Kelso Handicap,Leopard Stakes
+Breeders' Cup Dirt Mile
+11,5
+Arcadia
+_preps,Beverly D. Stakes,Yorkshire Oaks,Matron Stakes,Rodeo Drive Stakes,Prix de l'Opera,First Lady Stakes,Flower Bowl Stakes
+Breeders' Cup Filly & Mare Turf
+11,5
+Arcadia
+_preps,Vosburgh Stakes
+Breeders' Cup Sprint
+11,5
+Arcadia
+_preps,Sussex Stakes,Fourstardave H. Stakes,Woodbine Mile
+Breeders' Cup Mile
+11,5
+Arcadia
+_preps,Personal Ensign Stakes,Zenyatta Stakes,Spinster Stakes
+Breeders' Cup Distaff
+11,5
+Arcadia
+_preps,King George Vi & Queen Elizabeth Stakes,Arlington Million,Del Mar Handicap,Sword Dancer Stakes,Irish Champion Stakes
+Breeders' Cup Turf
+11,5
+Arcadia
+_preps,Stephen Foster Stakes,Whitney Handicap,Pacific Classic,Awesome Again Stakes,Jockey Club Gold Cup
+Breeders' Cup Classic
+11,7
+Flemington
+Crown Oaks
+11,7
+Flemington
+Chatham Stakes
+11,7
+Flemington
+Century Stakes
+11,8
+Flemington
+Emirates Stakes
+11,8
+Flemington
+Darley Classic
+11,8
+Flemington
+Seppelt Salinger Stakes
+11,8
+Flemington
+MacKinnon Stakes
+11,8
+Flemington
+Matriarch Stakes
+11,8
+Flemington
+Queen Elizabeth Stakes
+11,8
+Flemington
+Maribyrnong Plate
+11,8
+Flemington
+Hilton Hotels Stakes
+11,8
+Ascot
+Burgess Queen Stakes
+11,8
+Ascot
+Lee Steere Stakes
+11,8
+Ascot
+Ascot Gold Cup
+11,8
+Ascot
+Fairetha Stakes
+11,12
+Ellerslie
+Lacey Lodge Sprint
+11,14
+Doomben
+Keith Noud Quality
+11,14
+Doomben
+Forbes Cup
+11,14
+Doomben
+Shepparton Cup
+11,14
+Doomben
+Kelso Cup
+11,14
+Doomben
+Surfers Paradise Cup
+11,15
+Trentham
+Canterbury Breeders Stakes
+11,15
+Trentham
+Stewards Handicap
+11,15
+Trentham
+Churchill Stakes
+11,15
+Trentham
+New Zealand 2000 Guineas
+11,17
+Warrnambool
+Zipping Classic
+11,17
+Warrnambool
+Sandown Guineas
+11,17
+Warrnambool
+Sandown Stakes
+11,17
+Warrnambool
+Eclipse Stakes
+11,17
+Warrnambool
+Twilight Glow Stakes
+11,17
+Warrnambool
+Merson Cooper Stakes
+11,17
+Ascot
+WA Champion Fillies Stakes
+11,17
+Ascot
+Colonel Reeves Stakes
+11,17
+Ascot
+RJ Peters Stakes
+11,18
+Ellerslie
+Thames Valley Stakes
+11,19
+Trentham
+New Zealand Cup
+11,19
+Trentham
+New Zealand 1000 Guineas
+11,20
+Kyoto
+Mile Championship
+11,20
+Kyoto
+Queen Elizabeth II Cup
+11,20
+Kyoto
+Fantasy Stakes
+11,20
+Kyoto
+Miyako Stakes
+11,20
+Kyoto
+Daily Hai Nisai Stakes
+11,20
+Kyoto
+Keihan Hai
+11,21
+Sha Tin
+Jockey Club Sprint
+11,21
+Sha Tin
+Jockey Club Mile
+11,21
+Sha Tin
+Jockey Club Cup
+11,24
+Doomben
+Recognition Stakes
+11,24
+Doomben
+Colin McApline Classic
+11,24
+Ascot
+Railway Stakes
+11,24
+Ascot
+WA Guineas
+11,24
+Ascot
+Carbine of WA Stakes
+11,24
+Ascot
+Jungle Mist Classic
+11,24
+Warrnambool
+Summoned Stakes
+11,24
+Warrnambool
+Kevin Heffernan Stakes
+11,24
+Warrnambool
+Sandown Cup
+11,24
+Warrnambool
+Doveton Stakes
+11,25
+Tokyo
+Japan Cup
+11,25
+Tokyo
+Keio Hai Nisia
+11,25
+Tokyo
+Copa Republica Argentina
+11,25
+Tokyo
+Musashino Stakes
+11,25
+Tokyo
+Tokyo Sport Hai Nisai Stakes
+11,26
+Ellerslie
+Counties Cup
+11,26
+Ellerslie
+Auckland Breeders Stakes
+12,1
+Rosehill
+Festival Stakes
+12,1
+Rosehill
+ATC Cup
+12,1
+Rosehill
+Starlight Stakes
+12,1
+Doomben
+George Moore Stakes
+12,1
+Ascot
+Mode Stakes
+12,1
+Ascot
+Crystal Slipper Stakes
+12,1
+Ascot
+TABTouch Regional Championship
+12,2
+Nakayama
+_preps,Melbourne Cup
+Stayers Stakes
+12,2
+Nakayama
+Capella Stakes
+12,2
+Nakayama
+Turquoise Stakes
+12,2
+Nakayama
+Arima Kinen
+12,2
+Nakayama
+Hopeful Stakes
+12,2
+Nakayama
+Chunichi Shimbun Hai
+12,4
+Hastings
+Wellington Stakes
+12,3
+Ellerslie
+Great Northern Challenge Stakes
+12,3
+Ellerslie
+Wakefield Challenge Stakes
+12,3
+Ellerslie
+Bonecrusher Stakes
+12,8
+Doomben
+Brisbane Handicap
+12,8
+Doomben
+Just Now Quality
+12,8
+Morphettville
+City of Marion Stakes
+12,8
+Ascot
+Kingston Town Classic
+12,8
+Ascot
+Sir Ernest Lee-Steere Classic
+12,8
+Ascot
+GA Towton Cup
+12,8
+Ascot
+Winterbottom Stakes
+12,8
+Ascot
+Jungle Dawn Classic
+12,9
+Sha Tin
+Hong Kong Cup
+12,9
+Sha Tin
+Hong Kong Vase
+12,9
+Sha Tin
+Hong Kong Sprint
+12,9
+Sha Tin
+Hong Kong Mile
+12,10
+Trentham
+Captain Cook Stakes
+12,12
+Warrnambool
+Pakenham Cup
+12,12
+Warrnambool
+Magic Millions Warrnambool 2yo Classic
+12,12
+Warrnambool
+Magic Millions Warrnambool 3yo4yo Stakes
+12,12
+Warrnambool
+Werribee Cup
+12,12
+Warrnambool
+Burnie Cup
+12,12
+Warrnambool
+Snowman Cup
+12,14
+Hanshin
+Champions Cup
+12,14
+Hanshin
+Challenge Cup
+12,14
+Hanshin
+Hanshin Juvenile Fillies
+12,14
+Hanshin
+Asahi Hai Futurity Stakes
+12,14
+Hanshin
+Hanshin Cup
+12,15
+Randwick
+Villiers Stakes
+12,15
+Randwick
+Christmas Cup
+12,15
+Randwick
+Razor Sharp Handicap
+12,15
+Randwick
+Inglis Nursery
+12,15
+Randwick
+St. Jude Cup
+12,15
+Doomben
+Lough Neagh Stakes
+12,15
+Doomben
+Bribie Handicap
+12,15
+Doomben
+Phelan Ready Stakes
+12,15
+Doomben
+Calaway Gal Stakes
+12,15
+Doomben
+Gold Edition Plate
+12,16
+Ellerslie
+Waikato Cup
+12,16
+Ellerslie
+FC Johnstone Handicap
+12,16
+Ellerslie
+Eulogy Stakes
+12,16
+Ellerslie
+Lady Norrie Stakes
+12,18
+Florida
+Fort Lauderdale Stakes
+12,19
+Oklahoma
+Springwood Mile
+12,19
+Oklahoma
+Jim Thorpe Stakes
+12,19
+Oklahoma
+Trapeze Stakes
+12,19
+Oklahoma
+Useeit Stakes
+12,22
+Ascot
+AJ Scahill Stakes
+12,22
+Ascot
+CB Cox Stakes
+12,22
+Morphettville
+Starstruck Classic
+12,22
+Morphettville
+Tasmanian Stakes
+12,22
+Morphettville
+Christmas Handicap
+12,22
+Morphettville
+Christmas Eve Cup
+12,23
+Ellerslie
+Manawatu Cup
+12,23
+Ellerslie
+Manawatu Challenge Stakes
+12,23
+Ellerslie
+Eight Carat Classic
+12,23
+Ellerslie
+Galaxy Stakes
+12,26
+Randwick
+Summer Cup
+12,26
+Randwick
+Tom Price Cup
+12,26
+Randwick
+Samson Cup
+12,26
+Randwick
+Sunline Cup
+12,26
+Caulfield
+Christmas Stakes
+12,26
+Caulfield
+Lord Stakes
+12,28
+Rosehill
+Belle of the Turf Stakes
+12,28
+Rosehill
+Canterbury Classic
+12,29
+Doomben
+BJ McLachlan Stakes
+12,29
+Doomben
+VO Rogue Plate
+12,29
+Doomben
+Bernborough Handicap
+12,29
+Doomben
+Nudgee Quality Handicap
+12,29
+Doomben
+Falvelon Quality Handicap
+12,29
+Ascot
+ATA Stakes
